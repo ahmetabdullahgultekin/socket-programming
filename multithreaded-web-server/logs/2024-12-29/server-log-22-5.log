@@ -1,0 +1,51 @@
+2024-12-29 22:17:42,820 INFO c.a.WebServer [main]  :: HTTP Server :: Gultekin, Eren & Vatansever :: v1.0 ::
+2024-12-29 22:17:42,827 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 20344
+2024-12-29 22:17:42,828 INFO c.a.WebServer [main] Application is powered by the genius of Gultekin, Eren and Vatansever
+2024-12-29 22:17:42,829 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-29 22:17:42,829 INFO c.a.WebServer [main] Server started on port 8051
+2024-12-29 22:17:42,832 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 22:17:58,285 INFO c.a.ConnectionHandler [main] 1 connection(s) active
+
+2024-12-29 22:17:58,286 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 54526
+GET /101 HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 22:17:58,286 INFO c.a.ConnectionHandler [main] 2 connection(s) active
+
+2024-12-29 22:17:58,291 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-29 22:17:58,294 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 54526
+2024-12-29 22:17:58,566 INFO c.a.ConnectionHandler [pool-2-thread-2] Request from port 54527
+GET /favicon.ico HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8051/101
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 22:17:58,569 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size format is invalid For input string: "favicon.ico"
+2024-12-29 22:17:58,570 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 54527

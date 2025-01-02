@@ -1,0 +1,88 @@
+2024-12-23 23:53:10,995 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-23 23:53:11,002 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-23 23:53:11,003 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-23 23:53:11,004 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-23 23:53:43,086 ERROR c.a.ConnectionHandler [pool-2-thread-1] Error occurred while reading request: Connection reset
+2024-12-23 23:53:43,103 INFO c.a.ConnectionHandler [pool-2-thread-1] Request to forward: https://localhost:8051 GET
+2024-12-23 23:53:47,961 ERROR c.a.ConnectionHandler [pool-2-thread-4] Error occurred while reading request: Connection reset
+2024-12-23 23:53:47,964 INFO c.a.ConnectionHandler [pool-2-thread-4] Request to forward: https://localhost:8051 GET
+2024-12-23 23:53:53,434 ERROR c.a.ConnectionHandler [pool-2-thread-1] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:53:54,303 INFO c.a.ConnectionHandler [pool-2-thread-5] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:53:54,303 INFO c.a.ConnectionHandler [pool-2-thread-5] Request to forward: https://localhost:8051 GET
+2024-12-23 23:53:57,973 ERROR c.a.ConnectionHandler [pool-2-thread-4] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:54:04,324 ERROR c.a.ConnectionHandler [pool-2-thread-5] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:54:28,846 ERROR c.a.ConnectionHandler [pool-2-thread-6] Error occurred while reading request: Connection reset
+2024-12-23 23:54:28,847 INFO c.a.ConnectionHandler [pool-2-thread-6] Request to forward: https://localhost:8051 GET
+2024-12-23 23:54:36,972 ERROR c.a.ConnectionHandler [pool-2-thread-8] Error occurred while reading request: Connection reset
+2024-12-23 23:54:36,973 INFO c.a.ConnectionHandler [pool-2-thread-8] Request to forward: https://localhost:8051 GET
+2024-12-23 23:54:38,863 ERROR c.a.ConnectionHandler [pool-2-thread-6] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:54:46,980 ERROR c.a.ConnectionHandler [pool-2-thread-8] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:54:48,662 INFO c.a.ConnectionHandler [pool-2-thread-3] Request taken: 
+2024-12-23 23:54:48,663 INFO c.a.ConnectionHandler [pool-2-thread-3] Request to forward: https://localhost:8051 GET
+2024-12-23 23:54:58,682 ERROR c.a.ConnectionHandler [pool-2-thread-3] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:55:16,527 ERROR c.a.ConnectionHandler [pool-2-thread-9] Error occurred while reading request: Connection reset
+2024-12-23 23:55:16,528 INFO c.a.ConnectionHandler [pool-2-thread-9] Request to forward: https://localhost:8051 GET
+2024-12-23 23:55:20,195 INFO c.a.ConnectionHandler [pool-2-thread-10] Request taken: CONNECT mtalk.google.com:5228 HTTP/1.1
+Host: mtalk.google.com:5228
+Proxy-Connection: keep-alive
+
+
+2024-12-23 23:55:20,196 INFO c.a.ConnectionHandler [pool-2-thread-10] Request to forward: https://localhost:8051 GET
+2024-12-23 23:55:26,535 ERROR c.a.ConnectionHandler [pool-2-thread-9] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:55:30,210 ERROR c.a.ConnectionHandler [pool-2-thread-10] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:56:01,991 ERROR c.a.ConnectionHandler [pool-2-thread-12] Error occurred while reading request: Connection reset
+2024-12-23 23:56:01,992 INFO c.a.ConnectionHandler [pool-2-thread-12] Request to forward: https://localhost:8051 GET
+2024-12-23 23:56:12,002 ERROR c.a.ConnectionHandler [pool-2-thread-12] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:56:36,894 INFO c.a.ConnectionHandler [pool-2-thread-13] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:56:36,895 INFO c.a.ConnectionHandler [pool-2-thread-13] Request to forward: https://localhost:8051 GET
+2024-12-23 23:56:37,489 INFO c.a.ConnectionHandler [pool-2-thread-14] Request taken: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:56:37,490 INFO c.a.ConnectionHandler [pool-2-thread-14] Request to forward: https://localhost:8051 GET
+2024-12-23 23:56:46,906 ERROR c.a.ConnectionHandler [pool-2-thread-13] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:56:47,560 ERROR c.a.ConnectionHandler [pool-2-thread-14] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:56:48,613 ERROR c.a.ConnectionHandler [pool-2-thread-15] Error occurred while reading request: Connection reset
+2024-12-23 23:56:48,616 INFO c.a.ConnectionHandler [pool-2-thread-15] Request to forward: https://localhost:8051 GET
+2024-12-23 23:56:58,622 ERROR c.a.ConnectionHandler [pool-2-thread-15] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:57:36,300 ERROR c.a.ConnectionHandler [pool-2-thread-18] Error occurred while reading request: Connection reset
+2024-12-23 23:57:36,300 INFO c.a.ConnectionHandler [pool-2-thread-18] Request to forward: https://localhost:8051 GET
+2024-12-23 23:57:40,786 INFO c.a.ConnectionHandler [pool-2-thread-16] Request taken: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:57:40,786 INFO c.a.ConnectionHandler [pool-2-thread-16] Request to forward: https://localhost:8051 GET
+2024-12-23 23:57:42,991 ERROR c.a.ConnectionHandler [pool-2-thread-17] Error occurred while reading request: Connection reset
+2024-12-23 23:57:42,993 INFO c.a.ConnectionHandler [pool-2-thread-17] Request to forward: https://localhost:8051 GET
+2024-12-23 23:57:46,314 ERROR c.a.ConnectionHandler [pool-2-thread-18] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:57:50,798 ERROR c.a.ConnectionHandler [pool-2-thread-16] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:57:53,002 ERROR c.a.ConnectionHandler [pool-2-thread-17] IO Error occurred while reading response: HTTP connect timed out
+2024-12-23 23:57:55,741 INFO c.a.ConnectionHandler [pool-2-thread-19] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:57:55,743 INFO c.a.ConnectionHandler [pool-2-thread-19] Request to forward: https://localhost:8051 GET
+2024-12-23 23:58:05,173 INFO c.a.ConnectionHandler [pool-2-thread-20] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:58:05,174 INFO c.a.ConnectionHandler [pool-2-thread-20] Request to forward: https://localhost:8051 GET
+2024-12-23 23:58:05,758 ERROR c.a.ConnectionHandler [pool-2-thread-19] IO Error occurred while reading response: HTTP connect timed out

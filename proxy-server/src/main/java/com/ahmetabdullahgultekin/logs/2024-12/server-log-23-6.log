@@ -1,0 +1,302 @@
+2024-12-23 23:37:01,387 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-23 23:37:01,395 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-23 23:37:01,396 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-23 23:37:01,398 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-23 23:37:38,741 INFO c.a.ConnectionHandler [pool-2-thread-1] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:37:38,759 INFO c.a.ConnectionHandler [pool-2-thread-1] Request to forward: https://localhost:8051 GET
+2024-12-23 23:37:53,633 INFO c.a.ConnectionHandler [pool-2-thread-4] Request taken: CONNECT beacons5.gvt3.com:443 HTTP/1.1
+Host: beacons5.gvt3.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:37:53,634 INFO c.a.ConnectionHandler [pool-2-thread-4] Request to forward: https://localhost:8051 GET
+2024-12-23 23:38:46,248 INFO c.a.ConnectionHandler [pool-2-thread-3] Request taken: 
+2024-12-23 23:38:46,249 INFO c.a.ConnectionHandler [pool-2-thread-3] Request to forward: https://localhost:8051 GET
+2024-12-23 23:39:16,262 INFO c.a.ConnectionHandler [pool-2-thread-5] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:39:16,264 INFO c.a.ConnectionHandler [pool-2-thread-5] Request to forward: https://localhost:8051 GET
+2024-12-23 23:39:36,454 INFO c.a.ConnectionHandler [pool-2-thread-6] Request taken: CONNECT clientservices.googleapis.com:443 HTTP/1.1
+Host: clientservices.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:39:36,455 INFO c.a.ConnectionHandler [pool-2-thread-6] Request to forward: https://localhost:8051 GET
+2024-12-23 23:40:11,507 INFO c.a.ConnectionHandler [pool-2-thread-8] Request taken: CONNECT clients2.google.com:443 HTTP/1.1
+Host: clients2.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:40:11,509 INFO c.a.ConnectionHandler [pool-2-thread-8] Request to forward: https://localhost:8051 GET
+2024-12-23 23:40:22,594 INFO c.a.ConnectionHandler [pool-2-thread-10] Request taken: CONNECT mtalk.google.com:443 HTTP/1.1
+Host: mtalk.google.com:443
+Proxy-Connection: keep-alive
+
+
+2024-12-23 23:40:22,594 INFO c.a.ConnectionHandler [pool-2-thread-10] Request to forward: https://localhost:8051 GET
+2024-12-23 23:40:24,234 ERROR c.a.ConnectionHandler [pool-2-thread-9] Error occurred while reading request: Connection reset
+2024-12-23 23:40:24,234 INFO c.a.ConnectionHandler [pool-2-thread-9] Request to forward: https://localhost:8051 GET
+2024-12-23 23:40:36,745 INFO c.a.ConnectionHandler [pool-2-thread-11] Request taken: CONNECT clientservices.googleapis.com:443 HTTP/1.1
+Host: clientservices.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:40:36,746 INFO c.a.ConnectionHandler [pool-2-thread-11] Request to forward: https://localhost:8051 GET
+2024-12-23 23:40:36,854 INFO c.a.ConnectionHandler [pool-2-thread-12] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:40:36,855 INFO c.a.ConnectionHandler [pool-2-thread-12] Request to forward: https://localhost:8051 GET
+2024-12-23 23:40:41,517 INFO c.a.ConnectionHandler [pool-2-thread-13] Request taken: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:40:41,518 INFO c.a.ConnectionHandler [pool-2-thread-13] Request to forward: https://localhost:8051 GET
+2024-12-23 23:41:00,128 INFO c.a.ConnectionHandler [pool-2-thread-14] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:41:00,130 INFO c.a.ConnectionHandler [pool-2-thread-14] Request to forward: https://localhost:8051 GET
+2024-12-23 23:41:47,621 INFO c.a.ConnectionHandler [pool-2-thread-15] Request taken: CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+Host: safebrowsing.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:41:47,621 INFO c.a.ConnectionHandler [pool-2-thread-15] Request to forward: https://localhost:8051 GET
+2024-12-23 23:42:28,022 INFO c.a.ConnectionHandler [pool-2-thread-16] Request taken: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:42:28,023 INFO c.a.ConnectionHandler [pool-2-thread-16] Request to forward: https://localhost:8051 GET
+2024-12-23 23:43:33,293 INFO c.a.ConnectionHandler [pool-2-thread-17] Request taken: CONNECT beacons2.gvt2.com:443 HTTP/1.1
+Host: beacons2.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:43:33,294 INFO c.a.ConnectionHandler [pool-2-thread-17] Request to forward: https://localhost:8051 GET
+2024-12-23 23:44:03,304 INFO c.a.ConnectionHandler [pool-2-thread-18] Request taken: CONNECT beacons3.gvt2.com:443 HTTP/1.1
+Host: beacons3.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:44:03,305 INFO c.a.ConnectionHandler [pool-2-thread-18] Request to forward: https://localhost:8051 GET
+2024-12-23 23:44:33,310 INFO c.a.ConnectionHandler [pool-2-thread-19] Request taken: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:44:33,310 INFO c.a.ConnectionHandler [pool-2-thread-19] Request to forward: https://localhost:8051 GET
+2024-12-23 23:45:18,464 INFO c.a.ConnectionHandler [pool-2-thread-20] Request taken: CONNECT beacons5.gvt2.com:443 HTTP/1.1
+Host: beacons5.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:45:18,465 INFO c.a.ConnectionHandler [pool-2-thread-20] Request to forward: https://localhost:8051 GET
+2024-12-23 23:45:48,467 INFO c.a.ConnectionHandler [pool-2-thread-21] Request taken: CONNECT beacons5.gvt3.com:443 HTTP/1.1
+Host: beacons5.gvt3.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:45:48,469 INFO c.a.ConnectionHandler [pool-2-thread-21] Request to forward: https://localhost:8051 GET
+2024-12-23 23:46:06,873 INFO c.a.ConnectionHandler [pool-2-thread-23] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:46:06,873 INFO c.a.ConnectionHandler [pool-2-thread-23] Request to forward: https://localhost:8051 GET
+2024-12-23 23:46:47,339 ERROR c.a.ConnectionHandler [pool-2-thread-24] Error occurred while reading request: Connection reset
+2024-12-23 23:46:47,340 INFO c.a.ConnectionHandler [pool-2-thread-24] Request to forward: https://localhost:8051 GET
+2024-12-23 23:46:54,635 INFO c.a.ConnectionHandler [pool-2-thread-25] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:46:54,637 INFO c.a.ConnectionHandler [pool-2-thread-25] Request to forward: https://localhost:8051 GET
+2024-12-23 23:47:09,368 INFO c.a.ConnectionHandler [pool-2-thread-26] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:47:09,368 INFO c.a.ConnectionHandler [pool-2-thread-26] Request to forward: https://localhost:8051 GET
+2024-12-23 23:47:33,773 ERROR c.a.ConnectionHandler [pool-2-thread-27] Error occurred while reading request: Connection reset
+2024-12-23 23:47:33,773 INFO c.a.ConnectionHandler [pool-2-thread-27] Request to forward: https://localhost:8051 GET
+2024-12-23 23:47:44,208 INFO c.a.ConnectionHandler [pool-2-thread-28] Request taken: CONNECT mtalk.google.com:5228 HTTP/1.1
+Host: mtalk.google.com:5228
+Proxy-Connection: keep-alive
+
+
+2024-12-23 23:47:44,209 INFO c.a.ConnectionHandler [pool-2-thread-28] Request to forward: https://localhost:8051 GET
+2024-12-23 23:48:05,335 ERROR c.a.ConnectionHandler [pool-2-thread-29] Error occurred while reading request: Connection reset
+2024-12-23 23:48:05,336 INFO c.a.ConnectionHandler [pool-2-thread-29] Request to forward: https://localhost:8051 GET
+2024-12-23 23:48:06,973 INFO c.a.ConnectionHandler [pool-2-thread-30] Request taken: CONNECT clients2.google.com:443 HTTP/1.1
+Host: clients2.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:48:06,974 INFO c.a.ConnectionHandler [pool-2-thread-30] Request to forward: https://localhost:8051 GET
+2024-12-23 23:48:19,238 ERROR c.a.ConnectionHandler [pool-2-thread-31] Error occurred while reading request: Connection reset
+2024-12-23 23:48:19,239 INFO c.a.ConnectionHandler [pool-2-thread-31] Request to forward: https://localhost:8051 GET
+2024-12-23 23:49:05,644 ERROR c.a.ConnectionHandler [pool-2-thread-32] Error occurred while reading request: Connection reset
+2024-12-23 23:49:05,645 INFO c.a.ConnectionHandler [pool-2-thread-32] Request to forward: https://localhost:8051 GET
+2024-12-23 23:49:37,699 INFO c.a.ConnectionHandler [pool-2-thread-33] Request taken: CONNECT mtalk.google.com:443 HTTP/1.1
+Host: mtalk.google.com:443
+Proxy-Connection: keep-alive
+
+
+2024-12-23 23:49:37,700 INFO c.a.ConnectionHandler [pool-2-thread-33] Request to forward: https://localhost:8051 GET
+2024-12-23 23:49:51,403 ERROR c.a.ConnectionHandler [pool-2-thread-34] Error occurred while reading request: Connection reset
+2024-12-23 23:49:51,404 INFO c.a.ConnectionHandler [pool-2-thread-34] Request to forward: https://localhost:8051 GET
+2024-12-23 23:50:20,211 ERROR c.a.ConnectionHandler [pool-2-thread-35] Error occurred while reading request: Connection reset
+2024-12-23 23:50:20,211 INFO c.a.ConnectionHandler [pool-2-thread-35] Request to forward: https://localhost:8051 GET
+2024-12-23 23:50:37,032 ERROR c.a.ConnectionHandler [pool-2-thread-36] Error occurred while reading request: Connection reset
+2024-12-23 23:50:37,032 INFO c.a.ConnectionHandler [pool-2-thread-36] Request to forward: https://localhost:8051 GET
+2024-12-23 23:50:52,612 INFO c.a.ConnectionHandler [pool-2-thread-37] Request taken: CONNECT mtalk.google.com:5228 HTTP/1.1
+Host: mtalk.google.com:5228
+Proxy-Connection: keep-alive
+
+
+2024-12-23 23:50:52,613 INFO c.a.ConnectionHandler [pool-2-thread-37] Request to forward: https://localhost:8051 GET
+2024-12-23 23:51:24,263 ERROR c.a.ConnectionHandler [pool-2-thread-39] Error occurred while reading request: Connection reset
+2024-12-23 23:51:24,264 INFO c.a.ConnectionHandler [pool-2-thread-39] Request to forward: https://localhost:8051 GET
+2024-12-23 23:51:26,655 ERROR c.a.ConnectionHandler [pool-2-thread-38] Error occurred while reading request: Connection reset
+2024-12-23 23:51:26,656 INFO c.a.ConnectionHandler [pool-2-thread-38] Request to forward: https://localhost:8051 GET
+2024-12-23 23:51:38,445 INFO c.a.ConnectionHandler [pool-2-thread-2] Request taken: GET http://localhost:8051/568 HTTP/1.1
+Host: localhost:8051
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+
+2024-12-23 23:51:38,447 INFO c.a.ConnectionHandler [pool-2-thread-2] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:01,185 INFO c.a.ConnectionHandler [pool-2-thread-42] Request taken: GET http://localhost:8051/ HTTP/1.1
+Host: localhost:8051
+Proxy-Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+
+2024-12-23 23:52:01,186 INFO c.a.ConnectionHandler [pool-2-thread-42] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:04,334 INFO c.a.ConnectionHandler [pool-2-thread-40] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:52:04,335 INFO c.a.ConnectionHandler [pool-2-thread-40] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:08,200 INFO c.a.ConnectionHandler [pool-2-thread-43] Request taken: CONNECT phishing-detection.api.cx.metamask.io:443 HTTP/1.1
+Host: phishing-detection.api.cx.metamask.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:52:08,201 INFO c.a.ConnectionHandler [pool-2-thread-43] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:09,391 ERROR c.a.ConnectionHandler [pool-2-thread-41] Error occurred while reading request: Connection reset
+2024-12-23 23:52:09,392 INFO c.a.ConnectionHandler [pool-2-thread-41] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:15,818 INFO c.a.ConnectionHandler [pool-2-thread-45] Request taken: 
+2024-12-23 23:52:15,818 INFO c.a.ConnectionHandler [pool-2-thread-46] Request taken: CONNECT client-side-detection.api.cx.metamask.io:443 HTTP/1.1
+Host: client-side-detection.api.cx.metamask.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:52:15,819 INFO c.a.ConnectionHandler [pool-2-thread-45] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:15,819 INFO c.a.ConnectionHandler [pool-2-thread-46] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:25,102 ERROR c.a.ConnectionHandler [pool-2-thread-48] Error occurred while reading request: Connection reset
+2024-12-23 23:52:25,102 INFO c.a.ConnectionHandler [pool-2-thread-48] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:27,167 INFO c.a.ConnectionHandler [pool-2-thread-49] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:52:27,172 INFO c.a.ConnectionHandler [pool-2-thread-49] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:28,316 INFO c.a.ConnectionHandler [pool-2-thread-44] Request taken: GET http://localhost:8051/ HTTP/1.1
+Host: localhost:8051
+Proxy-Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+
+2024-12-23 23:52:28,317 INFO c.a.ConnectionHandler [pool-2-thread-44] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:33,095 ERROR c.a.ConnectionHandler [pool-2-thread-52] Error occurred while reading request: Connection reset
+2024-12-23 23:52:33,096 INFO c.a.ConnectionHandler [pool-2-thread-52] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:41,100 ERROR c.a.ConnectionHandler [pool-2-thread-55] Error occurred while reading request: Connection reset
+2024-12-23 23:52:41,100 INFO c.a.ConnectionHandler [pool-2-thread-55] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:47,424 INFO c.a.ConnectionHandler [pool-2-thread-47] Request taken: CONNECT mtalk.google.com:443 HTTP/1.1
+Host: mtalk.google.com:443
+Proxy-Connection: keep-alive
+
+
+2024-12-23 23:52:47,424 INFO c.a.ConnectionHandler [pool-2-thread-47] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:49,107 ERROR c.a.ConnectionHandler [pool-2-thread-56] Error occurred while reading request: Connection reset
+2024-12-23 23:52:49,107 INFO c.a.ConnectionHandler [pool-2-thread-56] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:54,696 ERROR c.a.ConnectionHandler [pool-2-thread-50] Error occurred while reading request: Connection reset
+2024-12-23 23:52:54,697 INFO c.a.ConnectionHandler [pool-2-thread-50] Request to forward: https://localhost:8051 GET
+2024-12-23 23:52:56,317 ERROR c.a.ConnectionHandler [pool-2-thread-51] Error occurred while reading request: Connection reset
+2024-12-23 23:52:56,318 INFO c.a.ConnectionHandler [pool-2-thread-51] Request to forward: https://localhost:8051 GET

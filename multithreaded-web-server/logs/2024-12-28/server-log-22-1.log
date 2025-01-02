@@ -1,0 +1,226 @@
+2024-12-28 22:18:22,369 INFO c.a.WebServer [main]  :: HTTP Server :: Gultekin, Eren & Vatansever :: v1.0 ::
+2024-12-28 22:18:22,378 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 7856
+2024-12-28 22:18:22,379 INFO c.a.WebServer [main] Application is powered by the genius of Gultekin, Eren and Vatansever
+2024-12-28 22:18:22,379 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-28 22:18:22,380 INFO c.a.WebServer [main] Server started on port 8051
+2024-12-28 22:18:44,768 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:44,770 ERROR c.a.ErrorHandler [pool-2-thread-1] Request is invalid. Bad Request.
+2024-12-28 22:18:44,772 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 22:18:44,774 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64855: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:45,014 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:45,026 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /11 HTTP/1.1
+2024-12-28 22:18:45,027 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:18:45,027 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 22:18:45,027 INFO c.a.ConnectionHandler [pool-2-thread-1] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:18:45,027 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade: h2c
+2024-12-28 22:18:45,027 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:18:45,027 INFO c.a.ConnectionHandler [pool-2-thread-1] Content-Type: text/html
+2024-12-28 22:18:45,028 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-28 22:18:45,028 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 11
+2024-12-28 22:18:45,028 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64856: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:45,038 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:45,038 ERROR c.a.ErrorHandler [pool-2-thread-1] Request is invalid. Bad Request.
+2024-12-28 22:18:45,038 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 22:18:45,038 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64857: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:45,040 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:45,041 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /11 HTTP/1.1
+2024-12-28 22:18:45,041 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:18:45,041 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 22:18:45,042 INFO c.a.ConnectionHandler [pool-2-thread-1] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:18:45,042 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade: h2c
+2024-12-28 22:18:45,042 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:18:45,042 INFO c.a.ConnectionHandler [pool-2-thread-1] Content-Type: text/html
+2024-12-28 22:18:45,042 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-28 22:18:45,043 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 11
+2024-12-28 22:18:45,043 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64858: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:45,049 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:45,049 ERROR c.a.ErrorHandler [pool-2-thread-1] Request is invalid. Bad Request.
+2024-12-28 22:18:45,050 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 22:18:45,050 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64860: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:45,052 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:45,053 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /11 HTTP/1.1
+2024-12-28 22:18:45,053 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:18:45,054 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 22:18:45,054 INFO c.a.ConnectionHandler [pool-2-thread-1] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:18:45,054 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade: h2c
+2024-12-28 22:18:45,054 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:18:45,054 INFO c.a.ConnectionHandler [pool-2-thread-1] Content-Type: text/html
+2024-12-28 22:18:45,054 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-28 22:18:45,054 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 11
+2024-12-28 22:18:45,055 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64861: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:46,088 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:46,088 ERROR c.a.ErrorHandler [pool-2-thread-1] Request is invalid. Bad Request.
+2024-12-28 22:18:46,088 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 22:18:46,089 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64864: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:46,091 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:46,093 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /11 HTTP/1.1
+2024-12-28 22:18:46,094 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:18:46,094 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 22:18:46,094 INFO c.a.ConnectionHandler [pool-2-thread-1] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:18:46,094 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade: h2c
+2024-12-28 22:18:46,094 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:18:46,095 INFO c.a.ConnectionHandler [pool-2-thread-1] Content-Type: text/html
+2024-12-28 22:18:46,095 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-28 22:18:46,095 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 11
+2024-12-28 22:18:46,096 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64865: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:46,104 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:46,104 ERROR c.a.ErrorHandler [pool-2-thread-1] Request is invalid. Bad Request.
+2024-12-28 22:18:46,104 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 22:18:46,105 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64866: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:46,107 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:46,109 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /11 HTTP/1.1
+2024-12-28 22:18:46,109 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:18:46,109 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 22:18:46,109 INFO c.a.ConnectionHandler [pool-2-thread-1] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:18:46,110 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade: h2c
+2024-12-28 22:18:46,110 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:18:46,110 INFO c.a.ConnectionHandler [pool-2-thread-1] Content-Type: text/html
+2024-12-28 22:18:46,110 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-28 22:18:46,110 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 11
+2024-12-28 22:18:46,111 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64867: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:46,120 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:46,121 ERROR c.a.ErrorHandler [pool-2-thread-1] Request is invalid. Bad Request.
+2024-12-28 22:18:46,121 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 22:18:46,121 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64869: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:46,123 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:46,124 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /11 HTTP/1.1
+2024-12-28 22:18:46,124 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:18:46,124 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 22:18:46,124 INFO c.a.ConnectionHandler [pool-2-thread-1] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:18:46,125 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade: h2c
+2024-12-28 22:18:46,125 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:18:46,125 INFO c.a.ConnectionHandler [pool-2-thread-1] Content-Type: text/html
+2024-12-28 22:18:46,125 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-28 22:18:46,125 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 11
+2024-12-28 22:18:46,126 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64870: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:51,152 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:51,153 ERROR c.a.ErrorHandler [pool-2-thread-1] Request is invalid. Bad Request.
+2024-12-28 22:18:51,154 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 22:18:51,154 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64875: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:18:51,156 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:18:51,158 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /11 HTTP/1.1
+2024-12-28 22:18:51,158 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:18:51,158 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 22:18:51,158 INFO c.a.ConnectionHandler [pool-2-thread-1] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:18:51,159 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade: h2c
+2024-12-28 22:18:51,159 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:18:51,159 INFO c.a.ConnectionHandler [pool-2-thread-1] Content-Type: text/html
+2024-12-28 22:18:51,159 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-28 22:18:51,159 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 11
+2024-12-28 22:18:51,159 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64876: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:19:21,189 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:19:21,190 ERROR c.a.ErrorHandler [pool-2-thread-1] Request is invalid. Bad Request.
+2024-12-28 22:19:21,190 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 22:19:21,190 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64884: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:19:21,193 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:19:21,194 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /11 HTTP/1.1
+2024-12-28 22:19:21,195 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:19:21,195 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 22:19:21,195 INFO c.a.ConnectionHandler [pool-2-thread-1] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:19:21,195 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade: h2c
+2024-12-28 22:19:21,195 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:19:21,195 INFO c.a.ConnectionHandler [pool-2-thread-1] Content-Type: text/html
+2024-12-28 22:19:21,196 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-28 22:19:21,196 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 11
+2024-12-28 22:19:21,196 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64885: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:19:21,203 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:19:21,203 ERROR c.a.ErrorHandler [pool-2-thread-1] Request is invalid. Bad Request.
+2024-12-28 22:19:21,204 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 22:19:21,204 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64886: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:19:21,206 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:19:21,207 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /11 HTTP/1.1
+2024-12-28 22:19:21,207 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:19:21,207 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 22:19:21,208 INFO c.a.ConnectionHandler [pool-2-thread-1] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:19:21,208 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade: h2c
+2024-12-28 22:19:21,208 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:19:21,208 INFO c.a.ConnectionHandler [pool-2-thread-1] Content-Type: text/html
+2024-12-28 22:19:21,208 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-28 22:19:21,208 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 11
+2024-12-28 22:19:21,209 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64887: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:19:21,218 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:19:21,218 ERROR c.a.ErrorHandler [pool-2-thread-1] Request is invalid. Bad Request.
+2024-12-28 22:19:21,218 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 22:19:21,219 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64889: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:19:21,221 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 22:19:21,223 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /11 HTTP/1.1
+2024-12-28 22:19:21,223 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:19:21,223 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 22:19:21,224 INFO c.a.ConnectionHandler [pool-2-thread-1] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:19:21,224 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade: h2c
+2024-12-28 22:19:21,224 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:19:21,224 INFO c.a.ConnectionHandler [pool-2-thread-1] Content-Type: text/html
+2024-12-28 22:19:21,224 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-28 22:19:21,224 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 11
+2024-12-28 22:19:21,225 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 64890: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:20:21,254 INFO c.a.ConnectionHandler [pool-2-thread-2] 1 connection(s) active
+
+2024-12-28 22:20:21,256 ERROR c.a.ErrorHandler [pool-2-thread-2] Request is invalid. Bad Request.
+2024-12-28 22:20:21,257 ERROR c.a.ConnectionHandler [pool-2-thread-2] Failed to parse the response size -1
+2024-12-28 22:20:21,257 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 64911: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:20:21,258 INFO c.a.ConnectionHandler [pool-2-thread-2] 1 connection(s) active
+
+2024-12-28 22:20:21,259 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /11 HTTP/1.1
+2024-12-28 22:20:21,259 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:20:21,260 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-28 22:20:21,260 INFO c.a.ConnectionHandler [pool-2-thread-2] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:20:21,260 INFO c.a.ConnectionHandler [pool-2-thread-2] Upgrade: h2c
+2024-12-28 22:20:21,260 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:20:21,260 INFO c.a.ConnectionHandler [pool-2-thread-2] Content-Type: text/html
+2024-12-28 22:20:21,260 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size is too small. Bad Request.
+2024-12-28 22:20:21,260 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size: 11
+2024-12-28 22:20:21,261 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 64912: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:20:21,268 INFO c.a.ConnectionHandler [pool-2-thread-2] 1 connection(s) active
+
+2024-12-28 22:20:21,269 ERROR c.a.ErrorHandler [pool-2-thread-2] Request is invalid. Bad Request.
+2024-12-28 22:20:21,269 ERROR c.a.ConnectionHandler [pool-2-thread-2] Failed to parse the response size -1
+2024-12-28 22:20:21,269 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 64913: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:20:21,271 INFO c.a.ConnectionHandler [pool-2-thread-2] 1 connection(s) active
+
+2024-12-28 22:20:21,273 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /11 HTTP/1.1
+2024-12-28 22:20:21,273 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:20:21,273 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-28 22:20:21,273 INFO c.a.ConnectionHandler [pool-2-thread-2] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:20:21,273 INFO c.a.ConnectionHandler [pool-2-thread-2] Upgrade: h2c
+2024-12-28 22:20:21,274 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:20:21,274 INFO c.a.ConnectionHandler [pool-2-thread-2] Content-Type: text/html
+2024-12-28 22:20:21,274 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size is too small. Bad Request.
+2024-12-28 22:20:21,274 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size: 11
+2024-12-28 22:20:21,275 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 64914: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:20:21,283 INFO c.a.ConnectionHandler [pool-2-thread-2] 1 connection(s) active
+
+2024-12-28 22:20:21,283 ERROR c.a.ErrorHandler [pool-2-thread-2] Request is invalid. Bad Request.
+2024-12-28 22:20:21,284 ERROR c.a.ConnectionHandler [pool-2-thread-2] Failed to parse the response size -1
+2024-12-28 22:20:21,284 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 64916: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 22:20:21,286 INFO c.a.ConnectionHandler [pool-2-thread-2] 1 connection(s) active
+
+2024-12-28 22:20:21,288 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /11 HTTP/1.1
+2024-12-28 22:20:21,288 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: Upgrade, HTTP2-Settings
+2024-12-28 22:20:21,288 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-28 22:20:21,289 INFO c.a.ConnectionHandler [pool-2-thread-2] HTTP2-Settings: AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+2024-12-28 22:20:21,289 INFO c.a.ConnectionHandler [pool-2-thread-2] Upgrade: h2c
+2024-12-28 22:20:21,289 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Java-http-client/23.0.1
+2024-12-28 22:20:21,289 INFO c.a.ConnectionHandler [pool-2-thread-2] Content-Type: text/html
+2024-12-28 22:20:21,289 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size is too small. Bad Request.
+2024-12-28 22:20:21,290 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size: 11
+2024-12-28 22:20:21,290 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 64917: HTTP/1.1 400 Bad Request with Content-Length: 0

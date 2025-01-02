@@ -1,0 +1,168 @@
+2024-12-24 00:47:38,686 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-24 00:47:38,694 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-24 00:47:38,695 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-24 00:47:38,696 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-24 00:47:38,812 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:47:38,840 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:47:39,063 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:47:39,079 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:47:39,112 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:47:43,317 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:47:43,318 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:47:47,521 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:47:49,996 INFO c.a.ConnectionHandler [pool-2-thread-6] Request taken: GET http://localhost:8051/50005 HTTP/1.1
+Host: localhost:8051
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+
+2024-12-24 00:48:05,348 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:48:08,813 INFO c.a.ConnectionHandler [pool-2-thread-1] Request taken: CONNECT client-side-detection.api.cx.metamask.io:443 HTTP/1.1
+Host: client-side-detection.api.cx.metamask.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:48:08,845 INFO c.a.ConnectionHandler [pool-2-thread-2] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:48:09,065 INFO c.a.ConnectionHandler [pool-2-thread-3] Request taken: CONNECT client-side-detection.api.cx.metamask.io:443 HTTP/1.1
+Host: client-side-detection.api.cx.metamask.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:48:09,081 INFO c.a.ConnectionHandler [pool-2-thread-4] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:48:11,032 ERROR c.a.ConnectionHandler [pool-2-thread-5] Error occurred while reading request: Connection reset
+2024-12-24 00:48:18,443 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:48:19,585 ERROR c.a.ConnectionHandler [pool-2-thread-8] Error occurred while reading request: Connection reset
+2024-12-24 00:48:22,979 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:48:22,983 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:48:26,342 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:48:30,970 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:48:33,985 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:48:35,360 INFO c.a.ConnectionHandler [pool-2-thread-9] Request taken: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:48:35,362 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:48:48,451 INFO c.a.ConnectionHandler [pool-2-thread-14] Request taken: CONNECT beacons5.gvt3.com:443 HTTP/1.1
+Host: beacons5.gvt3.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:48:48,453 INFO c.a.ConnectionHandler [pool-2-thread-7] Request taken: 
+2024-12-24 00:48:48,453 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:48:52,987 INFO c.a.ConnectionHandler [pool-2-thread-15] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:48:52,987 INFO c.a.ConnectionHandler [pool-2-thread-13] Request taken: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:48:56,357 INFO c.a.ConnectionHandler [pool-2-thread-12] Request taken: CONNECT edge.microsoft.com:443 HTTP/1.1
+Host: edge.microsoft.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+
+2024-12-24 00:49:00,974 INFO c.a.ConnectionHandler [pool-2-thread-11] Request taken: CONNECT beacons5.gvt3.com:443 HTTP/1.1
+Host: beacons5.gvt3.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:49:00,975 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:49:05,366 INFO c.a.ConnectionHandler [pool-2-thread-16] Request taken: CONNECT beacons5.gvt2.com:443 HTTP/1.1
+Host: beacons5.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:49:05,679 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:49:06,053 ERROR c.a.ConnectionHandler [pool-2-thread-10] Error occurred while reading request: Connection reset
+2024-12-24 00:49:18,462 INFO c.a.ConnectionHandler [pool-2-thread-17] Request taken: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:49:18,464 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:49:19,408 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:49:25,863 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:49:30,976 INFO c.a.ConnectionHandler [pool-2-thread-22] Request taken: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:49:30,978 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:49:35,695 INFO c.a.ConnectionHandler [pool-2-thread-24] Request taken: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:49:35,697 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:49:48,478 INFO c.a.ConnectionHandler [pool-2-thread-25] Request taken: CONNECT clients2.google.com:443 HTTP/1.1
+Host: clients2.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:49:49,481 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:49:51,452 ERROR c.a.ConnectionHandler [pool-2-thread-26] Error occurred while reading request: Connection reset
+2024-12-24 00:49:55,873 INFO c.a.ConnectionHandler [pool-2-thread-23] Request taken: CONNECT clients2.google.com:443 HTTP/1.1
+Host: clients2.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:49:56,184 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:49:56,372 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:50:00,989 INFO c.a.ConnectionHandler [pool-2-thread-20] Request taken: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:50:00,991 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:50:05,118 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:50:05,698 INFO c.a.ConnectionHandler [pool-2-thread-27] Request taken: CONNECT beacons2.gvt2.com:443 HTTP/1.1
+Host: beacons2.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:50:05,700 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:50:16,213 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:50:21,480 ERROR c.a.ConnectionHandler [pool-2-thread-29] Error occurred while reading request: Connection reset

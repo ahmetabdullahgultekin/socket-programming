@@ -1,0 +1,253 @@
+2024-12-24 00:28:27,822 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-24 00:28:27,829 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-24 00:28:27,830 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-24 00:28:27,831 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-24 00:28:33,073 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:28:33,074 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:28:36,797 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:28:36,798 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:28:37,440 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:28:45,158 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:03,086 INFO c.a.ConnectionHandler [pool-2-thread-2] Request taken: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:29:03,086 INFO c.a.ConnectionHandler [pool-2-thread-1] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:29:09,485 ERROR c.a.ConnectionHandler [pool-2-thread-5] Error occurred while reading request: Connection reset
+2024-12-24 00:29:15,172 INFO c.a.ConnectionHandler [pool-2-thread-6] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:29:23,907 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:23,971 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:28,125 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:28,129 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:29,754 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:30,198 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:30,293 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:30,324 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:30,940 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:30,947 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:30,948 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:30,954 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:30,955 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:30,960 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:31,266 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:31,956 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:32,268 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:33,960 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:34,959 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:29:53,921 INFO c.a.ConnectionHandler [pool-2-thread-10] Request taken: CONNECT edge.microsoft.com:443 HTTP/1.1
+Host: edge.microsoft.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+
+2024-12-24 00:29:56,052 ERROR c.a.ConnectionHandler [pool-2-thread-9] Error occurred while reading request: Connection reset
+2024-12-24 00:29:58,126 INFO c.a.ConnectionHandler [pool-2-thread-7] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:29:58,142 INFO c.a.ConnectionHandler [pool-2-thread-8] Request taken: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:29:59,769 INFO c.a.ConnectionHandler [pool-2-thread-11] Request taken: CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:00,207 INFO c.a.ConnectionHandler [pool-2-thread-12] Request taken: CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:00,302 INFO c.a.ConnectionHandler [pool-2-thread-13] Request taken: CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:00,334 INFO c.a.ConnectionHandler [pool-2-thread-14] Request taken: CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:00,953 INFO c.a.ConnectionHandler [pool-2-thread-15] Request taken: CONNECT optimizationguide-pa.googleapis.com:443 HTTP/1.1
+Host: optimizationguide-pa.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:00,968 INFO c.a.ConnectionHandler [pool-2-thread-18] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:00,968 INFO c.a.ConnectionHandler [pool-2-thread-19] Request taken: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:00,969 INFO c.a.ConnectionHandler [pool-2-thread-20] Request taken: CONNECT threat.api.mcafee.com:443 HTTP/1.1
+Host: threat.api.mcafee.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:01,269 INFO c.a.ConnectionHandler [pool-2-thread-21] Request taken: CONNECT optimizationguide-pa.googleapis.com:443 HTTP/1.1
+Host: optimizationguide-pa.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:01,959 INFO c.a.ConnectionHandler [pool-2-thread-22] Request taken: CONNECT safebrowsing.google.com:443 HTTP/1.1
+Host: safebrowsing.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:02,271 INFO c.a.ConnectionHandler [pool-2-thread-23] Request taken: CONNECT safebrowsing.google.com:443 HTTP/1.1
+Host: safebrowsing.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:02,398 INFO c.a.ConnectionHandler [pool-2-thread-4] Request taken: 
+2024-12-24 00:30:02,399 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:30:03,976 INFO c.a.ConnectionHandler [pool-2-thread-24] Request taken: CONNECT threat.api.mcafee.com:443 HTTP/1.1
+Host: threat.api.mcafee.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:04,974 INFO c.a.ConnectionHandler [pool-2-thread-25] Request taken: CONNECT safebrowsing.google.com:443 HTTP/1.1
+Host: safebrowsing.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:09,868 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:30:10,517 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:30:10,521 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:30:14,749 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:30:14,895 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:30:15,158 INFO c.a.ConnectionHandler [pool-2-thread-16] Request taken: GET http://webapp.chatgpt4google.com:443/ HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+
+
+2024-12-24 00:30:15,160 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:30:15,165 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:30:15,166 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:30:16,002 INFO c.a.ConnectionHandler [pool-2-thread-16] Response from web server: (GET http://webapp.chatgpt4google.com:443/) 400
+2024-12-24 00:30:16,004 INFO c.a.ConnectionHandler [pool-2-thread-16] Response forwarded: <html>
+<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<center>The plain HTTP request was sent to HTTPS port</center>
+</body>
+</html>
+
+2024-12-24 00:30:16,004 ERROR c.a.ConnectionHandler [main] Error occurred while listening for incoming connections: Socket closed
+2024-12-24 00:30:20,840 INFO c.a.ConnectionHandler [pool-2-thread-3] Request taken: GET http://localhost:8051/50002 HTTP/1.1
+Host: localhost:8051
+Proxy-Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+
+2024-12-24 00:30:20,857 INFO c.a.ConnectionHandler [pool-2-thread-3] Response from web server: (GET http://localhost:8051/50002) 400
+2024-12-24 00:30:20,857 INFO c.a.ConnectionHandler [pool-2-thread-3] Response forwarded: <HTML>
+<HEAD>
+<TITLE>400 Bad Request</TITLE>
+</HEAD>
+<BODY>
+<H1>400 Bad Request</H1>
+<P>The request could not be understood by the server due to malformed syntax.</P>
+</BODY>
+</HTML>
+2024-12-24 00:30:32,407 INFO c.a.ConnectionHandler [pool-2-thread-40] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:34,725 INFO c.a.ConnectionHandler [pool-2-thread-17] Request taken: 
+2024-12-24 00:30:40,531 INFO c.a.ConnectionHandler [pool-2-thread-42] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:40,531 INFO c.a.ConnectionHandler [pool-2-thread-41] Request taken: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:41,933 ERROR c.a.ConnectionHandler [pool-2-thread-43] Error occurred while reading request: Connection reset
+2024-12-24 00:30:44,750 INFO c.a.ConnectionHandler [pool-2-thread-39] Request taken: CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:44,907 INFO c.a.ConnectionHandler [pool-2-thread-38] Request taken: CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:45,173 INFO c.a.ConnectionHandler [pool-2-thread-35] Request taken: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:45,173 INFO c.a.ConnectionHandler [pool-2-thread-37] Request taken: CONNECT optimizationguide-pa.googleapis.com:443 HTTP/1.1
+Host: optimizationguide-pa.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:30:45,173 INFO c.a.ConnectionHandler [pool-2-thread-36] Request taken: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+

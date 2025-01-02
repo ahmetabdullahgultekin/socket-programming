@@ -1,0 +1,44 @@
+2024-12-24 00:22:43,529 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-24 00:22:43,537 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-24 00:22:43,538 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-24 00:22:43,539 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-24 00:23:15,800 ERROR c.a.ConnectionHandler [pool-2-thread-1] Error occurred while reading request: Connection reset
+2024-12-24 00:24:01,844 ERROR c.a.ConnectionHandler [pool-2-thread-2] Error occurred while reading request: Connection reset
+2024-12-24 00:24:07,054 INFO c.a.ConnectionHandler [pool-2-thread-3] Request taken: CONNECT edge.microsoft.com:443 HTTP/1.1
+Host: edge.microsoft.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+
+2024-12-24 00:24:49,910 ERROR c.a.ConnectionHandler [pool-2-thread-6] Error occurred while reading request: Connection reset
+2024-12-24 00:25:35,433 ERROR c.a.ConnectionHandler [pool-2-thread-7] Error occurred while reading request: Connection reset
+2024-12-24 00:25:37,070 INFO c.a.ConnectionHandler [pool-2-thread-8] Request taken: CONNECT edge.microsoft.com:443 HTTP/1.1
+Host: edge.microsoft.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+
+2024-12-24 00:26:23,440 ERROR c.a.ConnectionHandler [pool-2-thread-10] Error occurred while reading request: Connection reset
+2024-12-24 00:26:57,744 ERROR c.a.ConnectionHandler [pool-2-thread-11] Error occurred while reading request: Connection reset
+2024-12-24 00:27:07,098 INFO c.a.ConnectionHandler [pool-2-thread-13] Request taken: CONNECT edge.microsoft.com:443 HTTP/1.1
+Host: edge.microsoft.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+
+2024-12-24 00:27:08,723 ERROR c.a.ConnectionHandler [pool-2-thread-12] Error occurred while reading request: Connection reset
+2024-12-24 00:27:09,608 ERROR c.a.ConnectionHandler [pool-2-thread-14] Error occurred while reading request: Connection reset
+2024-12-24 00:27:32,921 INFO c.a.ConnectionHandler [pool-2-thread-17] Request taken: CONNECT phishing-detection.api.cx.metamask.io:443 HTTP/1.1
+Host: phishing-detection.api.cx.metamask.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:27:49,819 ERROR c.a.ConnectionHandler [pool-2-thread-20] Error occurred while reading request: Connection reset
+2024-12-24 00:27:54,696 ERROR c.a.ConnectionHandler [pool-2-thread-19] Error occurred while reading request: Connection reset
+2024-12-24 00:28:02,939 INFO c.a.ConnectionHandler [pool-2-thread-21] Request taken: CONNECT client-side-detection.api.cx.metamask.io:443 HTTP/1.1
+Host: client-side-detection.api.cx.metamask.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+

@@ -1,0 +1,828 @@
+2024-12-24 00:54:42,487 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-24 00:54:42,495 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-24 00:54:42,496 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-24 00:54:42,497 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-24 00:54:42,513 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:42,525 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:42,590 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:42,750 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:42,799 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:42,821 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:42,844 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:42,908 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:44,282 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:49,227 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:49,921 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:49,925 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:53,284 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:56,228 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:56,229 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:59,674 INFO c.a.ConnectionHandler [pool-2-thread-2] Request taken: CONNECT beacons3.gvt2.com:443 HTTP/1.1
+Host: beacons3.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,658 INFO c.a.ConnectionHandler [pool-2-thread-4] Request taken: CONNECT beacons2.gvt2.com:443 HTTP/1.1
+Host: beacons2.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,674 INFO c.a.ConnectionHandler [pool-2-thread-6] Request taken: CONNECT beacons3.gvt2.com:443 HTTP/1.1
+Host: beacons3.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,676 INFO c.a.ConnectionHandler [pool-2-thread-11] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,676 INFO c.a.ConnectionHandler [pool-2-thread-1] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,676 INFO c.a.ConnectionHandler [pool-2-thread-9] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,677 INFO c.a.ConnectionHandler [pool-2-thread-12] Request taken: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,677 INFO c.a.ConnectionHandler [pool-2-thread-10] Request taken: CONNECT www.google.com:443 HTTP/1.1
+Host: www.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,676 INFO c.a.ConnectionHandler [pool-2-thread-5] Request taken: CONNECT beacons3.gvt2.com:443 HTTP/1.1
+Host: beacons3.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,677 INFO c.a.ConnectionHandler [pool-2-thread-7] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,678 INFO c.a.ConnectionHandler [pool-2-thread-3] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,678 INFO c.a.ConnectionHandler [pool-2-thread-8] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:54:59,678 INFO c.a.ConnectionHandler [pool-2-thread-15] Request taken: 
+2024-12-24 00:54:59,681 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:59,682 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:59,684 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:54:59,998 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:01,196 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:01,690 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:06,591 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:14,329 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:25,347 ERROR c.a.ConnectionHandler [pool-2-thread-13] Error occurred while reading request: Connection reset
+2024-12-24 00:55:29,693 INFO c.a.ConnectionHandler [pool-2-thread-18] Request taken: CONNECT beacons3.gvt2.com:443 HTTP/1.1
+Host: beacons3.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:55:29,694 INFO c.a.ConnectionHandler [pool-2-thread-19] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:55:29,693 INFO c.a.ConnectionHandler [pool-2-thread-17] Request taken: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:55:29,696 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:29,697 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:30,005 INFO c.a.ConnectionHandler [pool-2-thread-27] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:55:30,006 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:30,007 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:31,202 INFO c.a.ConnectionHandler [pool-2-thread-28] Request taken: CONNECT mtalk.google.com:443 HTTP/1.1
+Host: mtalk.google.com:443
+Proxy-Connection: keep-alive
+
+
+2024-12-24 00:55:31,203 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:31,696 INFO c.a.ConnectionHandler [pool-2-thread-31] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:55:33,706 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:35,727 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:36,594 INFO c.a.ConnectionHandler [pool-2-thread-29] Request taken: CONNECT android.clients.google.com:443 HTTP/1.1
+Host: android.clients.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:55:38,190 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:38,458 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:39,273 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:39,783 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:46,388 ERROR c.a.ConnectionHandler [pool-2-thread-30] Error occurred while reading request: Connection reset
+2024-12-24 00:55:55,705 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:56,675 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:55:59,699 INFO c.a.ConnectionHandler [pool-2-thread-32] Request taken: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:55:59,699 INFO c.a.ConnectionHandler [pool-2-thread-26] Request taken: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:00,027 INFO c.a.ConnectionHandler [pool-2-thread-35] Request taken: CONNECT beacons2.gvt2.com:443 HTTP/1.1
+Host: beacons2.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:00,057 INFO c.a.ConnectionHandler [pool-2-thread-34] Request taken: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:00,069 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:00,070 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:01,215 INFO c.a.ConnectionHandler [pool-2-thread-36] Request taken: CONNECT mtalk.google.com:5228 HTTP/1.1
+Host: mtalk.google.com:5228
+Proxy-Connection: keep-alive
+
+
+2024-12-24 00:56:03,717 INFO c.a.ConnectionHandler [pool-2-thread-38] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:03,719 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:03,720 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:05,731 INFO c.a.ConnectionHandler [pool-2-thread-37] Request taken: CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+Host: safebrowsing.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:05,734 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:07,133 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:07,138 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:08,190 INFO c.a.ConnectionHandler [pool-2-thread-39] Request taken: CONNECT edge.microsoft.com:443 HTTP/1.1
+Host: edge.microsoft.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+
+2024-12-24 00:56:08,545 INFO c.a.ConnectionHandler [pool-2-thread-33] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:09,285 INFO c.a.ConnectionHandler [pool-2-thread-25] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:11,830 ERROR c.a.ConnectionHandler [pool-2-thread-24] Error occurred while reading request: Connection reset
+2024-12-24 00:56:25,095 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:25,419 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:25,714 INFO c.a.ConnectionHandler [pool-2-thread-40] Request taken: CONNECT clientservices.googleapis.com:443 HTTP/1.1
+Host: clientservices.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:25,716 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:25,900 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:28,759 ERROR c.a.ConnectionHandler [pool-2-thread-20] Error occurred while reading request: Connection reset
+2024-12-24 00:56:30,073 INFO c.a.ConnectionHandler [pool-2-thread-42] Request taken: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:30,090 INFO c.a.ConnectionHandler [pool-2-thread-41] Request taken: CONNECT beacons2.gvt2.com:443 HTTP/1.1
+Host: beacons2.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:30,091 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:30,092 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:33,720 INFO c.a.ConnectionHandler [pool-2-thread-44] Request taken: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:33,719 INFO c.a.ConnectionHandler [pool-2-thread-45] Request taken: CONNECT beacons3.gvt2.com:443 HTTP/1.1
+Host: beacons3.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:33,721 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:35,741 INFO c.a.ConnectionHandler [pool-2-thread-46] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:35,743 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:37,139 INFO c.a.ConnectionHandler [pool-2-thread-47] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:37,140 INFO c.a.ConnectionHandler [pool-2-thread-43] Request taken: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:37,751 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:38,892 INFO c.a.ConnectionHandler [pool-2-thread-53] Request taken: CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:38,892 INFO c.a.ConnectionHandler [pool-2-thread-55] Request taken: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:38,893 INFO c.a.ConnectionHandler [pool-2-thread-54] Request taken: CONNECT beacons2.gvt2.com:443 HTTP/1.1
+Host: beacons2.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:38,893 INFO c.a.ConnectionHandler [pool-2-thread-57] Request taken: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:38,896 INFO c.a.ConnectionHandler [pool-2-thread-60] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:38,897 INFO c.a.ConnectionHandler [pool-2-thread-50] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:38,897 INFO c.a.ConnectionHandler [pool-2-thread-52] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:38,902 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:38,903 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:38,904 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:39,017 INFO c.a.ConnectionHandler [pool-2-thread-58] Request taken: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:39,017 INFO c.a.ConnectionHandler [pool-2-thread-56] Request taken: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:39,017 INFO c.a.ConnectionHandler [pool-2-thread-59] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:39,020 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:39,022 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:39,023 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:39,025 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:39,028 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:39,334 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:40,538 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:40,756 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:40,920 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:41,142 INFO c.a.ConnectionHandler [pool-2-thread-74] Request taken: CONNECT beacons3.gvt2.com:443 HTTP/1.1
+Host: beacons3.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:41,142 INFO c.a.ConnectionHandler [pool-2-thread-66] Request taken: CONNECT beacons2.gvt2.com:443 HTTP/1.1
+Host: beacons2.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:41,142 INFO c.a.ConnectionHandler [pool-2-thread-69] Request taken: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:41,142 INFO c.a.ConnectionHandler [pool-2-thread-48] Request taken: CONNECT beacons3.gvt2.com:443 HTTP/1.1
+Host: beacons3.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:41,143 INFO c.a.ConnectionHandler [pool-2-thread-65] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:41,143 INFO c.a.ConnectionHandler [pool-2-thread-71] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:41,143 INFO c.a.ConnectionHandler [pool-2-thread-67] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:41,147 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:41,148 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:41,149 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:41,460 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:41,465 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:43,168 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:44,255 INFO c.a.ConnectionHandler [pool-2-thread-68] Request taken: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:44,255 INFO c.a.ConnectionHandler [pool-2-thread-64] Request taken: CONNECT beacons5.gvt2.com:443 HTTP/1.1
+Host: beacons5.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:44,255 INFO c.a.ConnectionHandler [pool-2-thread-70] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:44,255 INFO c.a.ConnectionHandler [pool-2-thread-79] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:44,256 INFO c.a.ConnectionHandler [pool-2-thread-81] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:56:44,261 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:44,262 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:44,264 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:44,267 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:44,269 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:44,894 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:46,182 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:46,278 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:49,098 ERROR c.a.ConnectionHandler [pool-2-thread-80] Error occurred while reading request: Connection reset
+2024-12-24 00:56:49,106 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:57,100 ERROR c.a.ConnectionHandler [pool-2-thread-87] Error occurred while reading request: Connection reset
+2024-12-24 00:56:57,108 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:56:57,147 ERROR c.a.ConnectionHandler [pool-2-thread-51] Error occurred while reading request: Connection reset
+2024-12-24 00:57:05,109 ERROR c.a.ConnectionHandler [pool-2-thread-88] Error occurred while reading request: Connection reset
+2024-12-24 00:57:08,196 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:10,448 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:10,553 INFO c.a.ConnectionHandler [pool-2-thread-73] Request taken: CONNECT mtalk.google.com:443 HTTP/1.1
+Host: mtalk.google.com:443
+Proxy-Connection: keep-alive
+
+
+2024-12-24 00:57:12,845 ERROR c.a.ConnectionHandler [pool-2-thread-72] Error occurred while reading request: Connection reset
+2024-12-24 00:57:12,933 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:13,914 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:14,103 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:14,273 INFO c.a.ConnectionHandler [pool-2-thread-78] Request taken: CONNECT beacons3.gvt2.com:443 HTTP/1.1
+Host: beacons3.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:14,274 INFO c.a.ConnectionHandler [pool-2-thread-77] Request taken: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:14,274 INFO c.a.ConnectionHandler [pool-2-thread-83] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:14,274 INFO c.a.ConnectionHandler [pool-2-thread-82] Request taken: CONNECT beacons5.gvt2.com:443 HTTP/1.1
+Host: beacons5.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:14,274 INFO c.a.ConnectionHandler [pool-2-thread-76] Request taken: CONNECT beacons5.gvt3.com:443 HTTP/1.1
+Host: beacons5.gvt3.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:14,277 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:14,279 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:14,280 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:16,189 INFO c.a.ConnectionHandler [pool-2-thread-85] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:16,191 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:16,283 INFO c.a.ConnectionHandler [pool-2-thread-84] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:16,894 ERROR c.a.ConnectionHandler [pool-2-thread-86] Error occurred while reading request: Connection reset
+2024-12-24 00:57:17,936 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:18,300 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:18,518 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:22,518 INFO c.a.ConnectionHandler [pool-2-thread-63] Request taken: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:22,519 INFO c.a.ConnectionHandler [pool-2-thread-97] Request taken: CONNECT clients2.google.com:443 HTTP/1.1
+Host: clients2.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:22,518 INFO c.a.ConnectionHandler [pool-2-thread-96] Request taken: CONNECT beacons5.gvt2.com:443 HTTP/1.1
+Host: beacons5.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:22,521 INFO c.a.ConnectionHandler [pool-2-thread-99] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:22,521 INFO c.a.ConnectionHandler [pool-2-thread-100] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:22,523 INFO c.a.ConnectionHandler [pool-2-thread-98] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:22,523 INFO c.a.ConnectionHandler [pool-2-thread-75] Request taken: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:22,529 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:22,530 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:22,542 INFO c.a.ConnectionHandler [pool-2-thread-90] Request taken: CONNECT edge.microsoft.com:443 HTTP/1.1
+Host: edge.microsoft.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+
+2024-12-24 00:57:22,556 INFO c.a.ConnectionHandler [pool-2-thread-62] Request taken: CONNECT beacons5.gvt3.com:443 HTTP/1.1
+Host: beacons5.gvt3.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:22,611 INFO c.a.ConnectionHandler [pool-2-thread-94] Request taken: CONNECT clients2.google.com:443 HTTP/1.1
+Host: clients2.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:22,611 INFO c.a.ConnectionHandler [pool-2-thread-95] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:22,612 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:22,613 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:22,614 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:22,615 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:24,137 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:24,163 INFO c.a.ConnectionHandler [pool-2-thread-61] Request taken: CONNECT beacons5.gvt2.com:443 HTTP/1.1
+Host: beacons5.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:24,163 INFO c.a.ConnectionHandler [pool-2-thread-93] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:24,163 INFO c.a.ConnectionHandler [pool-2-thread-103] Request taken: CONNECT beacons5.gvt3.com:443 HTTP/1.1
+Host: beacons5.gvt3.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:24,163 INFO c.a.ConnectionHandler [pool-2-thread-104] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:24,165 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:24,482 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:24,582 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:24,603 INFO c.a.ConnectionHandler [pool-2-thread-117] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:24,603 INFO c.a.ConnectionHandler [pool-2-thread-112] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:24,603 INFO c.a.ConnectionHandler [pool-2-thread-116] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:24,607 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:24,607 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:24,609 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:25,070 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:26,622 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:27,651 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:27,699 INFO c.a.ConnectionHandler [pool-2-thread-115] Request taken: CONNECT beacons5.gvt3.com:443 HTTP/1.1
+Host: beacons5.gvt3.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:27,700 INFO c.a.ConnectionHandler [pool-2-thread-114] Request taken: CONNECT clients2.google.com:443 HTTP/1.1
+Host: clients2.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:27,700 INFO c.a.ConnectionHandler [pool-2-thread-118] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:27,700 INFO c.a.ConnectionHandler [pool-2-thread-111] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:27,700 INFO c.a.ConnectionHandler [pool-2-thread-119] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:27,706 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:28,676 INFO c.a.ConnectionHandler [pool-2-thread-110] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:28,678 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:28,680 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:29,523 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:29,711 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:33,100 ERROR c.a.ConnectionHandler [pool-2-thread-120] Error occurred while reading request: Connection reset
+2024-12-24 00:57:33,128 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:41,093 ERROR c.a.ConnectionHandler [pool-2-thread-125] Error occurred while reading request: Connection reset
+2024-12-24 00:57:42,515 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:42,546 ERROR c.a.ConnectionHandler [pool-2-thread-89] Error occurred while reading request: Connection reset
+2024-12-24 00:57:43,847 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:44,940 ERROR c.a.ConnectionHandler [pool-2-thread-92] Error occurred while reading request: Connection reset
+2024-12-24 00:57:44,943 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:54,144 INFO c.a.ConnectionHandler [pool-2-thread-113] Request taken: CONNECT mtalk.google.com:5228 HTTP/1.1
+Host: mtalk.google.com:5228
+Proxy-Connection: keep-alive
+
+
+2024-12-24 00:57:56,317 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:57,786 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:57:58,681 INFO c.a.ConnectionHandler [pool-2-thread-124] Request taken: CONNECT clients2.google.com:443 HTTP/1.1
+Host: clients2.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:58,681 INFO c.a.ConnectionHandler [pool-2-thread-123] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:59,538 INFO c.a.ConnectionHandler [pool-2-thread-126] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:57:59,725 INFO c.a.ConnectionHandler [pool-2-thread-122] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:01,738 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:02,441 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:03,093 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:12,004 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:12,516 INFO c.a.ConnectionHandler [pool-2-thread-128] Request taken: CONNECT beacons5.gvt2.com:443 HTTP/1.1
+Host: beacons5.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:12,518 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:13,855 INFO c.a.ConnectionHandler [pool-2-thread-129] Request taken: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:13,857 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:16,941 ERROR c.a.ConnectionHandler [pool-2-thread-127] Error occurred while reading request: Connection reset
+2024-12-24 00:58:22,244 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:22,557 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:24,151 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:24,156 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:25,066 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 00:58:26,632 INFO c.a.ConnectionHandler [pool-2-thread-14] Request taken: GET http://localhost:8051/5007 HTTP/1.1
+Host: localhost:8051
+Proxy-Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+
+2024-12-24 00:58:26,747 INFO c.a.ConnectionHandler [pool-2-thread-14] Response from web server: (GET http://localhost:8051/5007) 200
+2024-12-24 00:58:26,749 INFO c.a.ConnectionHandler [pool-2-thread-14] Response forwarded: <HTML>
+<HEAD>
+<TITLE>vatansever gltkn eren server</TITLE>
+</HEAD>
+<BODY>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</BODY>
+</HTML>
+2024-12-24 00:58:26,750 ERROR c.a.ConnectionHandler [main] Error occurred while listening for incoming connections: Socket closed
+2024-12-24 00:58:27,795 INFO c.a.ConnectionHandler [pool-2-thread-130] Request taken: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:28,400 ERROR c.a.ConnectionHandler [pool-2-thread-131] Error occurred while reading request: Connection reset
+2024-12-24 00:58:31,742 INFO c.a.ConnectionHandler [pool-2-thread-135] Request taken: CONNECT sepolia.infura.io:443 HTTP/1.1
+Host: sepolia.infura.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:32,444 INFO c.a.ConnectionHandler [pool-2-thread-134] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:33,098 INFO c.a.ConnectionHandler [pool-2-thread-133] Request taken: CONNECT www.googleapis.com:443 HTTP/1.1
+Host: www.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:42,521 INFO c.a.ConnectionHandler [pool-2-thread-121] Request taken: CONNECT beacons2.gvt2.com:443 HTTP/1.1
+Host: beacons2.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:43,863 INFO c.a.ConnectionHandler [pool-2-thread-136] Request taken: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:44,003 ERROR c.a.ConnectionHandler [pool-2-thread-132] Error occurred while reading request: Connection reset
+2024-12-24 00:58:52,256 INFO c.a.ConnectionHandler [pool-2-thread-138] Request taken: CONNECT accounts.google.com:443 HTTP/1.1
+Host: accounts.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:52,567 INFO c.a.ConnectionHandler [pool-2-thread-137] Request taken: CONNECT edge.microsoft.com:443 HTTP/1.1
+Host: edge.microsoft.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+
+2024-12-24 00:58:54,155 INFO c.a.ConnectionHandler [pool-2-thread-139] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:54,156 INFO c.a.ConnectionHandler [pool-2-thread-140] Request taken: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-24 00:58:55,073 INFO c.a.ConnectionHandler [pool-2-thread-141] Request taken: CONNECT music.youtube.com:443 HTTP/1.1
+Host: music.youtube.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+

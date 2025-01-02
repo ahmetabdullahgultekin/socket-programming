@@ -1,0 +1,8 @@
+2024-12-07 13:36:05,695 INFO c.a.WebServer [main]  :: HTTP Server :: Gültekin, Eren & Vatansever :: v1.0 ::
+2024-12-07 13:36:05,709 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 7388
+2024-12-07 13:36:05,796 INFO c.a.WebServer [main] Application is powered by the genius of Gültekin, Eren and Vatansever
+2024-12-07 13:36:05,798 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-07 13:36:05,799 INFO c.a.WebServer [main] Server started on port 8051
+2024-12-07 13:36:05,801 INFO c.a.WebServer [main] Stopping HTTPServer on localhost with PID 7388
+2024-12-07 13:36:05,802 INFO c.a.WebServer [main] Server stopping on port 8051
+2024-12-07 13:36:05,807 INFO c.a.WebServer [main] Server stopped on port 8051

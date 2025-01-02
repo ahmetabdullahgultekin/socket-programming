@@ -1,0 +1,5 @@
+2024-12-28 18:03:22,437 INFO c.a.ConnectionHandler [pool-2-thread-9] 1 connection(s) active
+
+2024-12-28 18:05:45,444 ERROR c.a.ErrorHandler [pool-2-thread-9] Request is invalid. Bad Request.
+2024-12-28 18:05:45,449 ERROR c.a.ConnectionHandler [pool-2-thread-9] Failed to parse the response size -1
+2024-12-28 18:05:45,450 INFO c.a.ConnectionHandler [pool-2-thread-9] Sent response to 54625: HTTP/1.1 400 Bad Request with Content-Length: 0

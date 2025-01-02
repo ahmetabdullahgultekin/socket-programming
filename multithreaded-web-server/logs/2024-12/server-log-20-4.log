@@ -1,0 +1,97 @@
+2024-12-20 00:04:00,921 INFO c.a.WebServer [main]  :: HTTP Server :: Gültekin, Eren & Vatansever :: v1.0 ::
+2024-12-20 00:04:00,932 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 4972
+2024-12-20 00:04:00,933 INFO c.a.WebServer [main] Application is powered by the genius of Gültekin, Eren and Vatansever
+2024-12-20 00:04:00,934 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-20 00:04:00,935 INFO c.a.WebServer [main] Server started on port 8051
+2024-12-20 00:04:04,133 INFO c.a.WebServer [pool-2-thread-1] 2 connection(s) active
+
+2024-12-20 00:04:04,133 INFO c.a.WebServer [pool-2-thread-2] 2 connection(s) active
+
+2024-12-20 00:04:04,136 INFO c.a.WebServer [pool-2-thread-1] GET /50000 HTTP/1.1
+2024-12-20 00:04:04,136 INFO c.a.WebServer [pool-2-thread-1] Host: localhost:8051
+2024-12-20 00:04:04,137 INFO c.a.WebServer [pool-2-thread-1] Connection: keep-alive
+2024-12-20 00:04:04,137 INFO c.a.WebServer [pool-2-thread-1] Cache-Control: max-age=0
+2024-12-20 00:04:04,138 INFO c.a.WebServer [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-20 00:04:04,138 INFO c.a.WebServer [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-20 00:04:04,139 INFO c.a.WebServer [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-20 00:04:04,139 INFO c.a.WebServer [pool-2-thread-1] Upgrade-Insecure-Requests: 1
+2024-12-20 00:04:04,140 INFO c.a.WebServer [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-20 00:04:04,140 INFO c.a.WebServer [pool-2-thread-1] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-20 00:04:04,140 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-Site: none
+2024-12-20 00:04:04,141 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-Mode: navigate
+2024-12-20 00:04:04,142 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-User: ?1
+2024-12-20 00:04:04,142 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-Dest: document
+2024-12-20 00:04:04,143 INFO c.a.WebServer [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-20 00:04:04,143 INFO c.a.WebServer [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-20 00:04:04,144 INFO c.a.WebServer [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-20 00:04:04,144 ERROR c.a.WebServer [pool-2-thread-1] Requested file size is too large. Bad Request.
+2024-12-20 00:04:04,145 ERROR c.a.WebServer [pool-2-thread-1] Requested file size: 50000
+2024-12-20 00:04:04,146 ERROR c.a.WebServer [pool-2-thread-1] Failed to parse the response size -1
+2024-12-20 00:04:04,148 INFO c.a.WebServer [pool-2-thread-1] Sent response: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-20 00:04:04,150 INFO c.a.WebServer [pool-2-thread-1] Connection closed
+2024-12-20 00:04:10,033 INFO c.a.WebServer [pool-2-thread-2] GET /50000 HTTP/1.1
+2024-12-20 00:04:10,034 INFO c.a.WebServer [pool-2-thread-2] Host: localhost:8051
+2024-12-20 00:04:10,034 INFO c.a.WebServer [pool-2-thread-1] 2 connection(s) active
+
+2024-12-20 00:04:10,034 INFO c.a.WebServer [pool-2-thread-2] Connection: keep-alive
+2024-12-20 00:04:10,034 INFO c.a.WebServer [pool-2-thread-2] Cache-Control: max-age=0
+2024-12-20 00:04:10,035 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-20 00:04:10,035 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-20 00:04:10,035 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-20 00:04:10,036 INFO c.a.WebServer [pool-2-thread-2] Upgrade-Insecure-Requests: 1
+2024-12-20 00:04:10,036 INFO c.a.WebServer [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-20 00:04:10,037 INFO c.a.WebServer [pool-2-thread-2] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-20 00:04:10,037 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Site: none
+2024-12-20 00:04:10,038 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Mode: navigate
+2024-12-20 00:04:10,038 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-User: ?1
+2024-12-20 00:04:10,038 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Dest: document
+2024-12-20 00:04:10,039 INFO c.a.WebServer [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-20 00:04:10,040 INFO c.a.WebServer [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-20 00:04:10,040 INFO c.a.WebServer [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-20 00:04:10,041 ERROR c.a.WebServer [pool-2-thread-2] Requested file size is too large. Bad Request.
+2024-12-20 00:04:10,042 ERROR c.a.WebServer [pool-2-thread-2] Requested file size: 50000
+2024-12-20 00:04:10,042 ERROR c.a.WebServer [pool-2-thread-2] Failed to parse the response size -1
+2024-12-20 00:04:10,042 INFO c.a.WebServer [pool-2-thread-2] Sent response: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-20 00:04:10,043 INFO c.a.WebServer [pool-2-thread-2] Connection closed
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-2] 2 connection(s) active
+
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] GET /500 HTTP/1.1
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Host: localhost:8051
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Connection: keep-alive
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Upgrade-Insecure-Requests: 1
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-Site: none
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-Mode: navigate
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-User: ?1
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-Dest: document
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-20 00:04:18,739 INFO c.a.WebServer [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-20 00:04:18,748 INFO c.a.WebServer [pool-2-thread-1] Sent response: HTTP/1.1 200 OK with Content-Length: 494
+2024-12-20 00:04:18,748 INFO c.a.WebServer [pool-2-thread-1] Connection closed
+2024-12-20 00:04:24,352 INFO c.a.WebServer [pool-2-thread-2] GET /5 HTTP/1.1
+2024-12-20 00:04:24,352 INFO c.a.WebServer [pool-2-thread-2] Host: localhost:8051
+2024-12-20 00:04:24,353 INFO c.a.WebServer [pool-2-thread-2] Connection: keep-alive
+2024-12-20 00:04:24,353 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-20 00:04:24,353 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-20 00:04:24,353 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-20 00:04:24,354 INFO c.a.WebServer [pool-2-thread-2] Upgrade-Insecure-Requests: 1
+2024-12-20 00:04:24,354 INFO c.a.WebServer [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-20 00:04:24,354 INFO c.a.WebServer [pool-2-thread-2] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-20 00:04:24,354 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Site: none
+2024-12-20 00:04:24,354 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Mode: navigate
+2024-12-20 00:04:24,355 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-User: ?1
+2024-12-20 00:04:24,355 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Dest: document
+2024-12-20 00:04:24,355 INFO c.a.WebServer [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-20 00:04:24,355 INFO c.a.WebServer [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-20 00:04:24,356 INFO c.a.WebServer [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-20 00:04:24,356 ERROR c.a.WebServer [pool-2-thread-2] Requested file size is too small. Bad Request.
+2024-12-20 00:04:24,356 INFO c.a.WebServer [pool-2-thread-1] 2 connection(s) active
+
+2024-12-20 00:04:24,356 ERROR c.a.WebServer [pool-2-thread-2] Requested file size: 5
+2024-12-20 00:04:24,357 INFO c.a.WebServer [pool-2-thread-2] Sent response: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-20 00:04:24,357 INFO c.a.WebServer [pool-2-thread-2] Connection closed

@@ -1,0 +1,317 @@
+2024-12-29 23:37:50,181 INFO c.a.WebServer [main]  :: HTTP Server :: Gultekin, Eren & Vatansever :: v1.0 ::
+2024-12-29 23:37:50,190 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 2676
+2024-12-29 23:37:50,191 INFO c.a.WebServer [main] Application is powered by the genius of Gultekin, Eren and Vatansever
+2024-12-29 23:37:50,191 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-29 23:37:50,193 INFO c.a.WebServer [main] Server started on port 8051
+2024-12-29 23:37:50,194 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 23:37:52,298 INFO c.a.ConnectionHandler [main] 1 connection(s) active
+
+2024-12-29 23:37:52,299 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58028
+GET /1 HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:37:52,300 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too small. Bad Request.
+2024-12-29 23:37:52,302 INFO c.a.ConnectionHandler [main] 2 connection(s) active
+
+2024-12-29 23:37:52,304 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 1
+2024-12-29 23:37:52,307 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58028: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-29 23:37:56,081 INFO c.a.ConnectionHandler [main] 1 connection(s) active
+
+2024-12-29 23:37:56,081 INFO c.a.ConnectionHandler [pool-2-thread-2] Request from port 58029
+GET /1845489 HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:37:56,083 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size is too large. Bad Request.
+2024-12-29 23:37:56,083 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size: 1845489
+2024-12-29 23:37:56,084 ERROR c.a.ConnectionHandler [pool-2-thread-2] Failed to parse the response size -1
+2024-12-29 23:37:56,084 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 58029: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-29 23:37:59,150 INFO c.a.ConnectionHandler [main] 1 connection(s) active
+
+2024-12-29 23:37:59,150 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58031
+GET /18454feg HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:37:59,150 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size format is invalid For input string: "18454feg"
+2024-12-29 23:37:59,151 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-29 23:37:59,151 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58031: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-29 23:38:03,858 INFO c.a.ConnectionHandler [pool-2-thread-2] Request from port 58032
+GET / HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:03,858 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size format is invalid For input string: ""
+2024-12-29 23:38:03,858 ERROR c.a.ConnectionHandler [pool-2-thread-2] Failed to parse the response size -1
+2024-12-29 23:38:03,859 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 58032: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-29 23:38:03,859 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 23:38:07,193 INFO c.a.ConnectionHandler [pool-2-thread-2] Request from port 58033
+GET /101 HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:07,193 INFO c.a.ConnectionHandler [main] 1 connection(s) active
+
+2024-12-29 23:38:07,195 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 58033: HTTP/1.1 200 OK with Content-Length: 101
+2024-12-29 23:38:08,228 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58035
+GET /favicon.ico HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8051/101
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:08,228 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size format is invalid For input string: "favicon.ico"
+2024-12-29 23:38:08,229 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-29 23:38:08,229 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58035: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-29 23:38:10,063 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 23:38:10,063 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58036
+GET /1000 HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:10,064 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58036: HTTP/1.1 200 OK with Content-Length: 1000
+2024-12-29 23:38:10,066 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 23:38:10,333 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58037
+GET /favicon.ico HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8051/1000
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:10,333 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size format is invalid For input string: "favicon.ico"
+2024-12-29 23:38:10,333 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-29 23:38:10,333 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58037: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-29 23:38:12,299 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 23:38:12,299 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58038
+GET /100 HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:12,299 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58038: HTTP/1.1 200 OK with Content-Length: 100
+2024-12-29 23:38:13,386 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 23:38:13,386 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58039
+GET /favicon.ico HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8051/100
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:13,387 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size format is invalid For input string: "favicon.ico"
+2024-12-29 23:38:13,387 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-29 23:38:13,387 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58039: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-29 23:38:17,711 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 23:38:17,711 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58044
+GET /112 HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:17,712 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58044: HTTP/1.1 200 OK with Content-Length: 112
+2024-12-29 23:38:17,714 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 23:38:18,166 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58045
+GET /favicon.ico HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8051/112
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:18,166 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size format is invalid For input string: "favicon.ico"
+2024-12-29 23:38:18,166 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-29 23:38:18,166 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58045: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-29 23:38:20,488 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 23:38:20,488 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58046
+GET /113 HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:20,489 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58046: HTTP/1.1 200 OK with Content-Length: 113
+2024-12-29 23:38:20,493 INFO c.a.ConnectionHandler [main] 0 connection(s) active
+
+2024-12-29 23:38:20,757 INFO c.a.ConnectionHandler [pool-2-thread-1] Request from port 58047
+GET /favicon.ico HTTP/1.1
+Host: localhost:8051
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8051/113
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+2024-12-29 23:38:20,757 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size format is invalid For input string: "favicon.ico"
+2024-12-29 23:38:20,757 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-29 23:38:20,757 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58047: HTTP/1.1 400 Bad Request with Content-Length: 0

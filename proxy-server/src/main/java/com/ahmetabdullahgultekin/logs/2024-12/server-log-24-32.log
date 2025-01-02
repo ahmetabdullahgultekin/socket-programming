@@ -1,0 +1,348 @@
+2024-12-24 01:20:54,633 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-24 01:20:54,642 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-24 01:20:54,642 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-24 01:20:54,643 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-24 01:20:55,333 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:20:55,334 WARN c.a.ConnectionHandler [pool-2-thread-1] Reading request...
+2024-12-24 01:20:55,335 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: CONNECT www.googleapis.com:443 HTTP/1.1
+2024-12-24 01:20:55,336 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: Host: www.googleapis.com:443
+2024-12-24 01:20:55,336 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: Proxy-Connection: keep-alive
+2024-12-24 01:20:55,337 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:20:55,337 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: 
+2024-12-24 01:20:55,710 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:20:55,711 WARN c.a.ConnectionHandler [pool-2-thread-2] Reading request...
+2024-12-24 01:20:55,712 INFO c.a.ConnectionHandler [pool-2-thread-2] Line: CONNECT clientservices.googleapis.com:443 HTTP/1.1
+2024-12-24 01:20:55,713 INFO c.a.ConnectionHandler [pool-2-thread-2] Line: Host: clientservices.googleapis.com:443
+2024-12-24 01:20:55,713 INFO c.a.ConnectionHandler [pool-2-thread-2] Line: Proxy-Connection: keep-alive
+2024-12-24 01:20:55,713 INFO c.a.ConnectionHandler [pool-2-thread-2] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:20:55,713 INFO c.a.ConnectionHandler [pool-2-thread-2] Line: 
+2024-12-24 01:20:55,837 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:20:55,838 WARN c.a.ConnectionHandler [pool-2-thread-3] Reading request...
+2024-12-24 01:20:55,839 INFO c.a.ConnectionHandler [pool-2-thread-3] Line: CONNECT sepolia.infura.io:443 HTTP/1.1
+2024-12-24 01:20:55,839 INFO c.a.ConnectionHandler [pool-2-thread-3] Line: Host: sepolia.infura.io:443
+2024-12-24 01:20:55,840 INFO c.a.ConnectionHandler [pool-2-thread-3] Line: Proxy-Connection: keep-alive
+2024-12-24 01:20:55,840 INFO c.a.ConnectionHandler [pool-2-thread-3] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:20:55,840 INFO c.a.ConnectionHandler [pool-2-thread-3] Line: 
+2024-12-24 01:21:00,682 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:00,683 WARN c.a.ConnectionHandler [pool-2-thread-4] Reading request...
+2024-12-24 01:21:00,683 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:00,684 INFO c.a.ConnectionHandler [pool-2-thread-4] Line: CONNECT chatgpt.com:443 HTTP/1.1
+2024-12-24 01:21:00,684 INFO c.a.ConnectionHandler [pool-2-thread-4] Line: Host: chatgpt.com:443
+2024-12-24 01:21:00,685 INFO c.a.ConnectionHandler [pool-2-thread-4] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:00,684 WARN c.a.ConnectionHandler [pool-2-thread-5] Reading request...
+2024-12-24 01:21:00,685 INFO c.a.ConnectionHandler [pool-2-thread-4] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:00,685 INFO c.a.ConnectionHandler [pool-2-thread-4] Line: 
+2024-12-24 01:21:00,685 INFO c.a.ConnectionHandler [pool-2-thread-5] Line: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+2024-12-24 01:21:00,686 INFO c.a.ConnectionHandler [pool-2-thread-5] Line: Host: webapp.chatgpt4google.com:443
+2024-12-24 01:21:00,686 INFO c.a.ConnectionHandler [pool-2-thread-5] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:00,686 INFO c.a.ConnectionHandler [pool-2-thread-5] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:00,687 INFO c.a.ConnectionHandler [pool-2-thread-5] Line: 
+2024-12-24 01:21:00,993 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:00,994 WARN c.a.ConnectionHandler [pool-2-thread-7] Reading request...
+2024-12-24 01:21:00,994 INFO c.a.ConnectionHandler [pool-2-thread-7] Line: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+2024-12-24 01:21:00,995 INFO c.a.ConnectionHandler [pool-2-thread-7] Line: Host: webapp.chatgpt4google.com:443
+2024-12-24 01:21:00,995 INFO c.a.ConnectionHandler [pool-2-thread-7] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:00,995 INFO c.a.ConnectionHandler [pool-2-thread-7] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:00,995 INFO c.a.ConnectionHandler [pool-2-thread-7] Line: 
+2024-12-24 01:21:02,713 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:02,713 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:02,713 WARN c.a.ConnectionHandler [pool-2-thread-8] Reading request...
+2024-12-24 01:21:02,714 WARN c.a.ConnectionHandler [pool-2-thread-6] Reading request...
+2024-12-24 01:21:02,715 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: GET http://localhost:8051/500 HTTP/1.1
+2024-12-24 01:21:02,715 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Host: localhost:8051
+2024-12-24 01:21:02,716 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:02,716 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Cache-Control: max-age=0
+2024-12-24 01:21:02,716 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-24 01:21:02,717 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: sec-ch-ua-mobile: ?0
+2024-12-24 01:21:02,717 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: sec-ch-ua-platform: "Windows"
+2024-12-24 01:21:02,718 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Upgrade-Insecure-Requests: 1
+2024-12-24 01:21:02,718 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:02,718 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-24 01:21:02,719 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Sec-Fetch-Site: none
+2024-12-24 01:21:02,719 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Sec-Fetch-Mode: navigate
+2024-12-24 01:21:02,719 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Sec-Fetch-User: ?1
+2024-12-24 01:21:02,720 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Sec-Fetch-Dest: document
+2024-12-24 01:21:02,720 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Accept-Encoding: gzip, deflate, br, zstd
+2024-12-24 01:21:02,720 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-24 01:21:02,721 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-24 01:21:02,721 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: 
+2024-12-24 01:21:02,724 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:02,725 WARN c.a.ConnectionHandler [pool-2-thread-9] Reading request...
+2024-12-24 01:21:02,726 INFO c.a.ConnectionHandler [pool-2-thread-9] Line: CONNECT client-side-detection.api.cx.metamask.io:443 HTTP/1.1
+2024-12-24 01:21:02,727 INFO c.a.ConnectionHandler [pool-2-thread-9] Line: Host: client-side-detection.api.cx.metamask.io:443
+2024-12-24 01:21:02,728 INFO c.a.ConnectionHandler [pool-2-thread-9] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:02,728 INFO c.a.ConnectionHandler [pool-2-thread-9] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:02,728 INFO c.a.ConnectionHandler [pool-2-thread-9] Line: 
+2024-12-24 01:21:02,846 INFO c.a.ConnectionHandler [pool-2-thread-8] Response from web server: (GET http://localhost:8051/500) 200
+2024-12-24 01:21:02,848 INFO c.a.ConnectionHandler [pool-2-thread-8] Response forwarded: (GET http://localhost:8051/500) 200
+2024-12-24 01:21:03,482 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: GET http://localhost:8051/favicon.ico HTTP/1.1
+2024-12-24 01:21:03,483 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Host: localhost:8051
+2024-12-24 01:21:03,483 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:03,484 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: sec-ch-ua-platform: "Windows"
+2024-12-24 01:21:03,484 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:03,484 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-24 01:21:03,485 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: sec-ch-ua-mobile: ?0
+2024-12-24 01:21:03,485 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-24 01:21:03,485 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Sec-Fetch-Site: same-origin
+2024-12-24 01:21:03,486 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Sec-Fetch-Mode: no-cors
+2024-12-24 01:21:03,486 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Sec-Fetch-Dest: image
+2024-12-24 01:21:03,486 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Referer: http://localhost:8051/500
+2024-12-24 01:21:03,487 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Accept-Encoding: gzip, deflate, br, zstd
+2024-12-24 01:21:03,487 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-24 01:21:03,487 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-24 01:21:03,488 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: 
+2024-12-24 01:21:03,502 INFO c.a.ConnectionHandler [pool-2-thread-6] Response from web server: (GET http://localhost:8051/favicon.ico) 400
+2024-12-24 01:21:03,504 INFO c.a.ConnectionHandler [pool-2-thread-6] Response forwarded: (GET http://localhost:8051/favicon.ico) 400
+2024-12-24 01:21:06,432 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:06,432 WARN c.a.ConnectionHandler [pool-2-thread-6] Reading request...
+2024-12-24 01:21:06,432 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:06,433 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: GET http://localhost:8051/501 HTTP/1.1
+2024-12-24 01:21:06,433 WARN c.a.ConnectionHandler [pool-2-thread-8] Reading request...
+2024-12-24 01:21:06,433 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Host: localhost:8051
+2024-12-24 01:21:06,433 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:06,433 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-24 01:21:06,434 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: sec-ch-ua-mobile: ?0
+2024-12-24 01:21:06,434 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: sec-ch-ua-platform: "Windows"
+2024-12-24 01:21:06,434 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Upgrade-Insecure-Requests: 1
+2024-12-24 01:21:06,434 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:06,435 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-24 01:21:06,435 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Sec-Fetch-Site: none
+2024-12-24 01:21:06,436 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Sec-Fetch-Mode: navigate
+2024-12-24 01:21:06,436 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Sec-Fetch-User: ?1
+2024-12-24 01:21:06,436 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Sec-Fetch-Dest: document
+2024-12-24 01:21:06,437 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Accept-Encoding: gzip, deflate, br, zstd
+2024-12-24 01:21:06,437 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-24 01:21:06,438 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-24 01:21:06,438 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: 
+2024-12-24 01:21:06,462 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:06,463 WARN c.a.ConnectionHandler [pool-2-thread-10] Reading request...
+2024-12-24 01:21:06,464 INFO c.a.ConnectionHandler [pool-2-thread-6] Response from web server: (GET http://localhost:8051/501) 200
+2024-12-24 01:21:06,464 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: GET http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=131 HTTP/1.1
+2024-12-24 01:21:06,465 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: Host: clientservices.googleapis.com
+2024-12-24 01:21:06,465 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:06,466 INFO c.a.ConnectionHandler [pool-2-thread-6] Response forwarded: (GET http://localhost:8051/501) 200
+2024-12-24 01:21:06,466 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: If-None-Match: Cl/Bmie1Empg+lz4MRI74Vh2p6W0LF45S4gZNfhXThi1w8H/c13NY4PeK4ycGAVdXl2WgmWPx9/Qx9clGagqRL347Vf3NObIEHqe3vMbkJtkfrQDuW067ynLK2+vEmJjZRABGiAQF99atmOc5sh4BpyRjOfEWNkQDsRhqAVO5zB2UwWERyAB
+2024-12-24 01:21:06,466 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: A-IM: x-bm,gzip
+2024-12-24 01:21:06,467 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:06,467 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: Accept-Encoding: gzip, deflate
+2024-12-24 01:21:06,468 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: 
+2024-12-24 01:21:06,550 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:06,550 WARN c.a.ConnectionHandler [pool-2-thread-6] Reading request...
+2024-12-24 01:21:06,557 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: CONNECT threat.api.mcafee.com:443 HTTP/1.1
+2024-12-24 01:21:06,557 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Host: threat.api.mcafee.com:443
+2024-12-24 01:21:06,558 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:06,558 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:06,559 INFO c.a.ConnectionHandler [pool-2-thread-6] Line: 
+2024-12-24 01:21:06,567 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:06,574 WARN c.a.ConnectionHandler [pool-2-thread-11] Reading request...
+2024-12-24 01:21:06,575 INFO c.a.ConnectionHandler [pool-2-thread-11] Line: CONNECT self.events.data.microsoft.com:443 HTTP/1.0
+2024-12-24 01:21:06,575 INFO c.a.ConnectionHandler [pool-2-thread-11] Line: Host: self.events.data.microsoft.com:443
+2024-12-24 01:21:06,575 INFO c.a.ConnectionHandler [pool-2-thread-11] Line: Content-Length: 0
+2024-12-24 01:21:06,576 INFO c.a.ConnectionHandler [pool-2-thread-11] Line: Proxy-Connection: Keep-Alive
+2024-12-24 01:21:06,576 INFO c.a.ConnectionHandler [pool-2-thread-11] Line: Pragma: no-cache
+2024-12-24 01:21:06,576 INFO c.a.ConnectionHandler [pool-2-thread-11] Line: 
+2024-12-24 01:21:07,082 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: GET http://localhost:8051/favicon.ico HTTP/1.1
+2024-12-24 01:21:07,083 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Host: localhost:8051
+2024-12-24 01:21:07,083 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:07,084 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: sec-ch-ua-platform: "Windows"
+2024-12-24 01:21:07,084 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:07,084 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-24 01:21:07,085 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: sec-ch-ua-mobile: ?0
+2024-12-24 01:21:07,085 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-24 01:21:07,085 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Sec-Fetch-Site: same-origin
+2024-12-24 01:21:07,085 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Sec-Fetch-Mode: no-cors
+2024-12-24 01:21:07,086 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Sec-Fetch-Dest: image
+2024-12-24 01:21:07,086 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Referer: http://localhost:8051/501
+2024-12-24 01:21:07,086 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Accept-Encoding: gzip, deflate, br, zstd
+2024-12-24 01:21:07,086 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-24 01:21:07,087 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-24 01:21:07,087 INFO c.a.ConnectionHandler [pool-2-thread-8] Line: 
+2024-12-24 01:21:07,102 INFO c.a.ConnectionHandler [pool-2-thread-8] Response from web server: (GET http://localhost:8051/favicon.ico) 400
+2024-12-24 01:21:07,103 INFO c.a.ConnectionHandler [pool-2-thread-8] Response forwarded: (GET http://localhost:8051/favicon.ico) 400
+2024-12-24 01:21:07,272 INFO c.a.ConnectionHandler [pool-2-thread-10] Response from web server: (GET http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=131) 200
+2024-12-24 01:21:07,278 INFO c.a.ConnectionHandler [pool-2-thread-10] Response forwarded: (GET http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=131) 200
+2024-12-24 01:21:08,469 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:08,469 WARN c.a.ConnectionHandler [pool-2-thread-10] Reading request...
+2024-12-24 01:21:08,469 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: CONNECT sepolia.infura.io:443 HTTP/1.1
+2024-12-24 01:21:08,470 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: Host: sepolia.infura.io:443
+2024-12-24 01:21:08,470 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:08,470 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:08,470 INFO c.a.ConnectionHandler [pool-2-thread-10] Line: 
+2024-12-24 01:21:17,128 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:17,129 WARN c.a.ConnectionHandler [pool-2-thread-14] Reading request...
+2024-12-24 01:21:17,130 INFO c.a.ConnectionHandler [pool-2-thread-14] Line: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+2024-12-24 01:21:17,130 INFO c.a.ConnectionHandler [pool-2-thread-14] Line: Host: webapp.chatgpt4google.com:443
+2024-12-24 01:21:17,130 INFO c.a.ConnectionHandler [pool-2-thread-14] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:17,130 INFO c.a.ConnectionHandler [pool-2-thread-14] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:17,130 INFO c.a.ConnectionHandler [pool-2-thread-14] Line: 
+2024-12-24 01:21:23,354 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:23,355 WARN c.a.ConnectionHandler [pool-2-thread-15] Reading request...
+2024-12-24 01:21:23,355 INFO c.a.ConnectionHandler [pool-2-thread-15] Line: CONNECT www.googleapis.com:443 HTTP/1.1
+2024-12-24 01:21:23,355 INFO c.a.ConnectionHandler [pool-2-thread-15] Line: Host: www.googleapis.com:443
+2024-12-24 01:21:23,356 INFO c.a.ConnectionHandler [pool-2-thread-15] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:23,356 INFO c.a.ConnectionHandler [pool-2-thread-15] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:23,356 INFO c.a.ConnectionHandler [pool-2-thread-15] Line: 
+2024-12-24 01:21:35,556 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:35,556 WARN c.a.ConnectionHandler [pool-2-thread-16] Reading request...
+2024-12-24 01:21:35,557 INFO c.a.ConnectionHandler [pool-2-thread-16] Line: CONNECT edge.microsoft.com:443 HTTP/1.1
+2024-12-24 01:21:35,557 INFO c.a.ConnectionHandler [pool-2-thread-16] Line: Host: edge.microsoft.com:443
+2024-12-24 01:21:35,557 INFO c.a.ConnectionHandler [pool-2-thread-16] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:35,558 INFO c.a.ConnectionHandler [pool-2-thread-16] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+2024-12-24 01:21:35,558 INFO c.a.ConnectionHandler [pool-2-thread-16] Line: 
+2024-12-24 01:21:40,483 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:40,483 WARN c.a.ConnectionHandler [pool-2-thread-17] Reading request...
+2024-12-24 01:21:40,484 INFO c.a.ConnectionHandler [pool-2-thread-17] Line: CONNECT sepolia.infura.io:443 HTTP/1.1
+2024-12-24 01:21:40,484 INFO c.a.ConnectionHandler [pool-2-thread-17] Line: Host: sepolia.infura.io:443
+2024-12-24 01:21:40,484 INFO c.a.ConnectionHandler [pool-2-thread-17] Line: Proxy-Connection: keep-alive
+2024-12-24 01:21:40,484 INFO c.a.ConnectionHandler [pool-2-thread-17] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:21:40,485 INFO c.a.ConnectionHandler [pool-2-thread-17] Line: 
+2024-12-24 01:21:51,650 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:21:51,651 WARN c.a.ConnectionHandler [pool-2-thread-18] Reading request...
+2024-12-24 01:21:51,651 INFO c.a.ConnectionHandler [pool-2-thread-18] Line: CONNECT self.events.data.microsoft.com:443 HTTP/1.0
+2024-12-24 01:21:51,651 INFO c.a.ConnectionHandler [pool-2-thread-18] Line: Host: self.events.data.microsoft.com:443
+2024-12-24 01:21:51,651 INFO c.a.ConnectionHandler [pool-2-thread-18] Line: Content-Length: 0
+2024-12-24 01:21:51,652 INFO c.a.ConnectionHandler [pool-2-thread-18] Line: Proxy-Connection: Keep-Alive
+2024-12-24 01:21:51,652 INFO c.a.ConnectionHandler [pool-2-thread-18] Line: Pragma: no-cache
+2024-12-24 01:21:51,652 INFO c.a.ConnectionHandler [pool-2-thread-18] Line: 
+2024-12-24 01:22:12,506 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:12,507 WARN c.a.ConnectionHandler [pool-2-thread-19] Reading request...
+2024-12-24 01:22:12,507 INFO c.a.ConnectionHandler [pool-2-thread-19] Line: CONNECT sepolia.infura.io:443 HTTP/1.1
+2024-12-24 01:22:12,508 INFO c.a.ConnectionHandler [pool-2-thread-19] Line: Host: sepolia.infura.io:443
+2024-12-24 01:22:12,508 INFO c.a.ConnectionHandler [pool-2-thread-19] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:12,508 INFO c.a.ConnectionHandler [pool-2-thread-19] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:12,508 INFO c.a.ConnectionHandler [pool-2-thread-19] Line: 
+2024-12-24 01:22:30,331 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:30,331 WARN c.a.ConnectionHandler [pool-2-thread-20] Reading request...
+2024-12-24 01:22:30,332 INFO c.a.ConnectionHandler [pool-2-thread-20] Line: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+2024-12-24 01:22:30,332 INFO c.a.ConnectionHandler [pool-2-thread-20] Line: Host: beacons.gcp.gvt2.com:443
+2024-12-24 01:22:30,332 INFO c.a.ConnectionHandler [pool-2-thread-20] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:30,332 INFO c.a.ConnectionHandler [pool-2-thread-20] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:30,332 INFO c.a.ConnectionHandler [pool-2-thread-20] Line: 
+2024-12-24 01:22:36,848 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:36,848 WARN c.a.ConnectionHandler [pool-2-thread-21] Reading request...
+2024-12-24 01:22:36,849 INFO c.a.ConnectionHandler [pool-2-thread-21] Line: CONNECT self.events.data.microsoft.com:443 HTTP/1.0
+2024-12-24 01:22:36,849 INFO c.a.ConnectionHandler [pool-2-thread-21] Line: Host: self.events.data.microsoft.com:443
+2024-12-24 01:22:36,849 INFO c.a.ConnectionHandler [pool-2-thread-21] Line: Content-Length: 0
+2024-12-24 01:22:36,849 INFO c.a.ConnectionHandler [pool-2-thread-21] Line: Proxy-Connection: Keep-Alive
+2024-12-24 01:22:36,849 INFO c.a.ConnectionHandler [pool-2-thread-21] Line: Pragma: no-cache
+2024-12-24 01:22:36,849 INFO c.a.ConnectionHandler [pool-2-thread-21] Line: 
+2024-12-24 01:22:44,531 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:44,532 WARN c.a.ConnectionHandler [pool-2-thread-22] Reading request...
+2024-12-24 01:22:44,532 INFO c.a.ConnectionHandler [pool-2-thread-22] Line: CONNECT sepolia.infura.io:443 HTTP/1.1
+2024-12-24 01:22:44,532 INFO c.a.ConnectionHandler [pool-2-thread-22] Line: Host: sepolia.infura.io:443
+2024-12-24 01:22:44,533 INFO c.a.ConnectionHandler [pool-2-thread-22] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:44,533 INFO c.a.ConnectionHandler [pool-2-thread-22] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:44,533 INFO c.a.ConnectionHandler [pool-2-thread-22] Line: 
+2024-12-24 01:22:46,274 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:46,274 WARN c.a.ConnectionHandler [pool-2-thread-23] Reading request...
+2024-12-24 01:22:46,275 INFO c.a.ConnectionHandler [pool-2-thread-23] Line: CONNECT chatgpt.com:443 HTTP/1.1
+2024-12-24 01:22:46,275 INFO c.a.ConnectionHandler [pool-2-thread-23] Line: Host: chatgpt.com:443
+2024-12-24 01:22:46,275 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:46,276 INFO c.a.ConnectionHandler [pool-2-thread-23] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:46,276 INFO c.a.ConnectionHandler [pool-2-thread-23] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:46,276 INFO c.a.ConnectionHandler [pool-2-thread-23] Line: 
+2024-12-24 01:22:46,276 WARN c.a.ConnectionHandler [pool-2-thread-24] Reading request...
+2024-12-24 01:22:46,277 INFO c.a.ConnectionHandler [pool-2-thread-24] Line: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+2024-12-24 01:22:46,277 INFO c.a.ConnectionHandler [pool-2-thread-24] Line: Host: webapp.chatgpt4google.com:443
+2024-12-24 01:22:46,277 INFO c.a.ConnectionHandler [pool-2-thread-24] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:46,278 INFO c.a.ConnectionHandler [pool-2-thread-24] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:46,278 INFO c.a.ConnectionHandler [pool-2-thread-24] Line: 
+2024-12-24 01:22:46,588 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:46,589 WARN c.a.ConnectionHandler [pool-2-thread-26] Reading request...
+2024-12-24 01:22:46,589 INFO c.a.ConnectionHandler [pool-2-thread-26] Line: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+2024-12-24 01:22:46,590 INFO c.a.ConnectionHandler [pool-2-thread-26] Line: Host: webapp.chatgpt4google.com:443
+2024-12-24 01:22:46,590 INFO c.a.ConnectionHandler [pool-2-thread-26] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:46,590 INFO c.a.ConnectionHandler [pool-2-thread-26] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:46,590 INFO c.a.ConnectionHandler [pool-2-thread-26] Line: 
+2024-12-24 01:22:48,021 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:48,022 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:48,022 WARN c.a.ConnectionHandler [pool-2-thread-27] Reading request...
+2024-12-24 01:22:48,022 WARN c.a.ConnectionHandler [pool-2-thread-25] Reading request...
+2024-12-24 01:22:48,024 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: GET http://localhost:8051/501 HTTP/1.1
+2024-12-24 01:22:48,024 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Host: localhost:8051
+2024-12-24 01:22:48,024 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:48,025 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Cache-Control: max-age=0
+2024-12-24 01:22:48,025 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-24 01:22:48,025 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: sec-ch-ua-mobile: ?0
+2024-12-24 01:22:48,025 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: sec-ch-ua-platform: "Windows"
+2024-12-24 01:22:48,025 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Upgrade-Insecure-Requests: 1
+2024-12-24 01:22:48,026 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:48,026 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-24 01:22:48,026 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Sec-Fetch-Site: none
+2024-12-24 01:22:48,026 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Sec-Fetch-Mode: navigate
+2024-12-24 01:22:48,026 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Sec-Fetch-User: ?1
+2024-12-24 01:22:48,027 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Sec-Fetch-Dest: document
+2024-12-24 01:22:48,027 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Accept-Encoding: gzip, deflate, br, zstd
+2024-12-24 01:22:48,027 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-24 01:22:48,027 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-24 01:22:48,027 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: 
+2024-12-24 01:22:48,042 INFO c.a.ConnectionHandler [pool-2-thread-25] Response from web server: (GET http://localhost:8051/501) 200
+2024-12-24 01:22:48,043 INFO c.a.ConnectionHandler [pool-2-thread-25] Response forwarded: (GET http://localhost:8051/501) 200
+2024-12-24 01:22:48,087 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:48,088 WARN c.a.ConnectionHandler [pool-2-thread-25] Reading request...
+2024-12-24 01:22:48,088 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+2024-12-24 01:22:48,088 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Host: beacons.gcp.gvt2.com:443
+2024-12-24 01:22:48,089 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:48,089 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:48,089 INFO c.a.ConnectionHandler [pool-2-thread-25] Line: 
+2024-12-24 01:22:48,834 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: GET http://localhost:8051/favicon.ico HTTP/1.1
+2024-12-24 01:22:48,835 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Host: localhost:8051
+2024-12-24 01:22:48,835 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:48,835 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: sec-ch-ua-platform: "Windows"
+2024-12-24 01:22:48,835 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:48,836 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-24 01:22:48,836 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: sec-ch-ua-mobile: ?0
+2024-12-24 01:22:48,836 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-24 01:22:48,836 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Sec-Fetch-Site: same-origin
+2024-12-24 01:22:48,837 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Sec-Fetch-Mode: no-cors
+2024-12-24 01:22:48,837 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Sec-Fetch-Dest: image
+2024-12-24 01:22:48,837 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Referer: http://localhost:8051/501
+2024-12-24 01:22:48,837 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Accept-Encoding: gzip, deflate, br, zstd
+2024-12-24 01:22:48,837 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-24 01:22:48,838 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-24 01:22:48,838 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: 
+2024-12-24 01:22:48,854 INFO c.a.ConnectionHandler [pool-2-thread-27] Response from web server: (GET http://localhost:8051/favicon.ico) 400
+2024-12-24 01:22:48,855 INFO c.a.ConnectionHandler [pool-2-thread-27] Response forwarded: (GET http://localhost:8051/favicon.ico) 400
+2024-12-24 01:22:50,869 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:50,869 WARN c.a.ConnectionHandler [pool-2-thread-27] Reading request...
+2024-12-24 01:22:50,869 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: CONNECT www.google.com:443 HTTP/1.1
+2024-12-24 01:22:50,869 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Host: www.google.com:443
+2024-12-24 01:22:50,869 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:50,870 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:50,870 INFO c.a.ConnectionHandler [pool-2-thread-27] Line: 
+2024-12-24 01:22:55,906 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:55,906 WARN c.a.ConnectionHandler [pool-2-thread-29] Reading request...
+2024-12-24 01:22:55,907 INFO c.a.ConnectionHandler [pool-2-thread-29] Line: CONNECT assets.msn.com:443 HTTP/1.0
+2024-12-24 01:22:55,907 INFO c.a.ConnectionHandler [pool-2-thread-29] Line: Host: assets.msn.com:443
+2024-12-24 01:22:55,908 INFO c.a.ConnectionHandler [pool-2-thread-29] Line: Content-Length: 0
+2024-12-24 01:22:55,908 INFO c.a.ConnectionHandler [pool-2-thread-29] Line: Proxy-Connection: Keep-Alive
+2024-12-24 01:22:55,908 INFO c.a.ConnectionHandler [pool-2-thread-29] Line: Pragma: no-cache
+2024-12-24 01:22:55,908 INFO c.a.ConnectionHandler [pool-2-thread-29] Line: 
+2024-12-24 01:22:59,208 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:22:59,208 WARN c.a.ConnectionHandler [pool-2-thread-30] Reading request...
+2024-12-24 01:22:59,209 INFO c.a.ConnectionHandler [pool-2-thread-30] Line: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+2024-12-24 01:22:59,209 INFO c.a.ConnectionHandler [pool-2-thread-30] Line: Host: webapp.chatgpt4google.com:443
+2024-12-24 01:22:59,209 INFO c.a.ConnectionHandler [pool-2-thread-30] Line: Proxy-Connection: keep-alive
+2024-12-24 01:22:59,209 INFO c.a.ConnectionHandler [pool-2-thread-30] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:22:59,209 INFO c.a.ConnectionHandler [pool-2-thread-30] Line: 
+2024-12-24 01:23:05,579 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:23:05,580 WARN c.a.ConnectionHandler [pool-2-thread-31] Reading request...
+2024-12-24 01:23:05,580 INFO c.a.ConnectionHandler [pool-2-thread-31] Line: CONNECT edge.microsoft.com:443 HTTP/1.1
+2024-12-24 01:23:05,580 INFO c.a.ConnectionHandler [pool-2-thread-31] Line: Host: edge.microsoft.com:443
+2024-12-24 01:23:05,581 INFO c.a.ConnectionHandler [pool-2-thread-31] Line: Proxy-Connection: keep-alive
+2024-12-24 01:23:05,581 INFO c.a.ConnectionHandler [pool-2-thread-31] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+2024-12-24 01:23:05,581 INFO c.a.ConnectionHandler [pool-2-thread-31] Line: 
+2024-12-24 01:23:16,557 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:23:16,558 WARN c.a.ConnectionHandler [pool-2-thread-32] Reading request...
+2024-12-24 01:23:16,558 INFO c.a.ConnectionHandler [pool-2-thread-32] Line: CONNECT sepolia.infura.io:443 HTTP/1.1
+2024-12-24 01:23:16,558 INFO c.a.ConnectionHandler [pool-2-thread-32] Line: Host: sepolia.infura.io:443
+2024-12-24 01:23:16,558 INFO c.a.ConnectionHandler [pool-2-thread-32] Line: Proxy-Connection: keep-alive
+2024-12-24 01:23:16,559 INFO c.a.ConnectionHandler [pool-2-thread-32] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:23:16,559 INFO c.a.ConnectionHandler [pool-2-thread-32] Line: 
+2024-12-24 01:23:18,092 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:23:18,092 WARN c.a.ConnectionHandler [pool-2-thread-33] Reading request...
+2024-12-24 01:23:18,093 INFO c.a.ConnectionHandler [pool-2-thread-33] Line: CONNECT accounts.google.com:443 HTTP/1.1
+2024-12-24 01:23:18,093 INFO c.a.ConnectionHandler [pool-2-thread-33] Line: Host: accounts.google.com:443
+2024-12-24 01:23:18,093 INFO c.a.ConnectionHandler [pool-2-thread-33] Line: Proxy-Connection: keep-alive
+2024-12-24 01:23:18,093 INFO c.a.ConnectionHandler [pool-2-thread-33] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:23:18,093 INFO c.a.ConnectionHandler [pool-2-thread-33] Line: 

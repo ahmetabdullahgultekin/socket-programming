@@ -1,0 +1,98 @@
+2024-12-23 23:25:40,502 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-23 23:25:40,510 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-23 23:25:40,510 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-23 23:25:40,511 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-23 23:26:10,534 INFO c.a.ConnectionHandler [pool-2-thread-1] Request: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:26:10,784 INFO c.a.ConnectionHandler [pool-2-thread-2] Request: CONNECT beacons4.gvt2.com:443 HTTP/1.1
+Host: beacons4.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:26:19,129 INFO c.a.ConnectionHandler [pool-2-thread-4] Request: CONNECT threat.api.mcafee.com:443 HTTP/1.1
+Host: threat.api.mcafee.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:26:19,129 INFO c.a.ConnectionHandler [pool-2-thread-3] Request: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:26:19,129 INFO c.a.ConnectionHandler [pool-2-thread-6] Request: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:26:19,129 INFO c.a.ConnectionHandler [pool-2-thread-7] Request: CONNECT beacons5.gvt2.com:443 HTTP/1.1
+Host: beacons5.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:26:29,106 ERROR c.a.ConnectionHandler [pool-2-thread-9] Error occurred while reading request: Connection reset
+2024-12-23 23:26:33,562 INFO c.a.ConnectionHandler [pool-2-thread-5] Request: CONNECT mtalk.google.com:5228 HTTP/1.1
+Host: mtalk.google.com:5228
+Proxy-Connection: keep-alive
+
+
+2024-12-23 23:26:37,103 ERROR c.a.ConnectionHandler [pool-2-thread-11] Error occurred while reading request: Connection reset
+2024-12-23 23:26:45,092 ERROR c.a.ConnectionHandler [pool-2-thread-14] Error occurred while reading request: Connection reset
+2024-12-23 23:26:45,390 ERROR c.a.ConnectionHandler [pool-2-thread-8] Error occurred while reading request: Connection reset
+2024-12-23 23:26:53,095 ERROR c.a.ConnectionHandler [pool-2-thread-15] Error occurred while reading request: Connection reset
+2024-12-23 23:26:54,221 ERROR c.a.ConnectionHandler [pool-2-thread-10] Error occurred while reading request: Connection reset
+2024-12-23 23:26:59,699 INFO c.a.ConnectionHandler [pool-2-thread-13] Request: CONNECT beacons5.gvt3.com:443 HTTP/1.1
+Host: beacons5.gvt3.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:26:59,699 INFO c.a.ConnectionHandler [pool-2-thread-12] Request: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:27:01,102 ERROR c.a.ConnectionHandler [pool-2-thread-17] Error occurred while reading request: Connection reset
+2024-12-23 23:27:09,102 ERROR c.a.ConnectionHandler [pool-2-thread-20] Error occurred while reading request: Connection reset
+2024-12-23 23:27:17,098 ERROR c.a.ConnectionHandler [pool-2-thread-21] Error occurred while reading request: Connection reset
+2024-12-23 23:27:25,101 ERROR c.a.ConnectionHandler [pool-2-thread-22] Error occurred while reading request: Connection reset
+2024-12-23 23:27:26,294 ERROR c.a.ConnectionHandler [pool-2-thread-16] Error occurred while reading request: Connection reset
+2024-12-23 23:27:29,703 INFO c.a.ConnectionHandler [pool-2-thread-19] Request: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:27:30,164 ERROR c.a.ConnectionHandler [pool-2-thread-18] Error occurred while reading request: Connection reset
+2024-12-23 23:27:33,095 ERROR c.a.ConnectionHandler [pool-2-thread-24] Error occurred while reading request: Connection reset
+2024-12-23 23:27:41,104 ERROR c.a.ConnectionHandler [pool-2-thread-26] Error occurred while reading request: Connection reset
+2024-12-23 23:27:49,107 ERROR c.a.ConnectionHandler [pool-2-thread-27] Error occurred while reading request: Connection reset
+2024-12-23 23:27:57,096 ERROR c.a.ConnectionHandler [pool-2-thread-29] Error occurred while reading request: Connection reset
+2024-12-23 23:27:58,300 ERROR c.a.ConnectionHandler [pool-2-thread-23] Error occurred while reading request: Connection reset
+2024-12-23 23:27:59,714 INFO c.a.ConnectionHandler [pool-2-thread-25] Request: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:28:16,297 ERROR c.a.ConnectionHandler [pool-2-thread-28] Error occurred while reading request: Connection reset
+2024-12-23 23:28:27,987 INFO c.a.ConnectionHandler [pool-2-thread-30] Request: CONNECT mtalk.google.com:443 HTTP/1.1
+Host: mtalk.google.com:443
+Proxy-Connection: keep-alive
+
+
+2024-12-23 23:28:29,726 INFO c.a.ConnectionHandler [pool-2-thread-31] Request: CONNECT beacons2.gvt2.com:443 HTTP/1.1
+Host: beacons2.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+

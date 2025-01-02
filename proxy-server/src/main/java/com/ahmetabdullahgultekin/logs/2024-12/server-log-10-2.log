@@ -1,0 +1,14 @@
+2024-12-10 13:19:45,835 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-10 13:19:45,839 INFO c.a.ProxyServer [main]  _______  _______  _______                   
+(  ____ )(  ____ )(  ___  )|\     /||\     /|
+| (    )|| (    )|| (   ) |( \   / )( \   / )
+| (____)|| (____)|| |   | | \ (_) /  \ (_) / 
+|  _____)|     __)| |   | |  ) _ (    \   /  
+| (      | (\ (   | |   | | / ( ) \    ) (   
+| )      | ) \ \__| (___) |( /   \ )   | |   
+|/       |/   \__/(_______)|/     \|   \_/   
+                                             
+
+2024-12-10 13:19:45,842 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-10 13:19:45,843 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-10 13:19:45,843 INFO c.a.ProxyServer [main] Proxy server is started on port 8888

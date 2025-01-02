@@ -1,0 +1,197 @@
+2024-12-29 20:34:24,621 INFO c.a.WebServer [main]  :: HTTP Server :: Gultekin, Eren & Vatansever :: v1.0 ::
+2024-12-29 20:34:24,629 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 4004
+2024-12-29 20:34:24,629 INFO c.a.WebServer [main] Application is powered by the genius of Gultekin, Eren and Vatansever
+2024-12-29 20:34:24,630 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-29 20:34:24,631 INFO c.a.WebServer [main] Server started on port 8051
+2024-12-29 20:34:39,524 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-29 20:34:39,524 INFO c.a.ConnectionHandler [pool-2-thread-2] 2 connection(s) active
+
+2024-12-29 20:34:39,525 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /5000007 HTTP/1.1
+2024-12-29 20:34:39,526 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-29 20:34:39,526 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: keep-alive
+2024-12-29 20:34:39,526 INFO c.a.ConnectionHandler [pool-2-thread-1] Cache-Control: max-age=0
+2024-12-29 20:34:39,527 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-29 20:34:39,527 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-29 20:34:39,529 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-29 20:34:39,529 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade-Insecure-Requests: 1
+2024-12-29 20:34:39,530 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-29 20:34:39,531 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-29 20:34:39,531 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Site: none
+2024-12-29 20:34:39,531 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Mode: navigate
+2024-12-29 20:34:39,532 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-User: ?1
+2024-12-29 20:34:39,532 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Dest: document
+2024-12-29 20:34:39,532 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-29 20:34:39,532 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-29 20:34:39,533 INFO c.a.ConnectionHandler [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-29 20:34:39,536 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size is too large. Bad Request.
+2024-12-29 20:34:39,536 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size: 5000007
+2024-12-29 20:34:39,539 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 53200: HTTP/1.1 400 Bad Request
+2024-12-29 20:34:39,541 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to handle the request on port 53200
+2024-12-29 20:34:43,535 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /5 HTTP/1.1
+2024-12-29 20:34:43,535 INFO c.a.ConnectionHandler [pool-2-thread-1] 2 connection(s) active
+
+2024-12-29 20:34:43,535 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-29 20:34:43,535 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: keep-alive
+2024-12-29 20:34:43,536 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-29 20:34:43,536 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-29 20:34:43,536 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-29 20:34:43,536 INFO c.a.ConnectionHandler [pool-2-thread-2] Upgrade-Insecure-Requests: 1
+2024-12-29 20:34:43,536 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-29 20:34:43,537 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-29 20:34:43,537 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Site: none
+2024-12-29 20:34:43,537 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Mode: navigate
+2024-12-29 20:34:43,537 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-User: ?1
+2024-12-29 20:34:43,538 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Dest: document
+2024-12-29 20:34:43,538 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-29 20:34:43,538 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-29 20:34:43,538 INFO c.a.ConnectionHandler [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-29 20:34:43,540 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size is too small. Bad Request.
+2024-12-29 20:34:43,541 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size: 5
+2024-12-29 20:34:43,541 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 53201: HTTP/1.1 400 Bad Request
+2024-12-29 20:34:43,543 ERROR c.a.ConnectionHandler [pool-2-thread-2] Failed to handle the request on port 53201
+2024-12-29 20:34:47,379 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /5000 HTTP/1.1
+2024-12-29 20:34:47,379 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-29 20:34:47,380 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: keep-alive
+2024-12-29 20:34:47,380 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-29 20:34:47,380 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-29 20:34:47,380 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-29 20:34:47,380 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade-Insecure-Requests: 1
+2024-12-29 20:34:47,381 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-29 20:34:47,381 INFO c.a.ConnectionHandler [pool-2-thread-2] 2 connection(s) active
+
+2024-12-29 20:34:47,381 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-29 20:34:47,381 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Site: none
+2024-12-29 20:34:47,381 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Mode: navigate
+2024-12-29 20:34:47,382 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-User: ?1
+2024-12-29 20:34:47,382 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Dest: document
+2024-12-29 20:34:47,382 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-29 20:34:47,382 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-29 20:34:47,383 INFO c.a.ConnectionHandler [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-29 20:34:47,384 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 53204: HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 5000
+Connection: close
+
+<HTML>
+<HEAD>
+<TITLE>vatansever gltkn eren server</TITLE>
+</HEAD>
+<BODY>87 bytes tags<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytesXXXX</BODY>
+</HTML>
+2024-12-29 20:34:47,384 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to handle the request on port 53204
+2024-12-29 20:34:48,502 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /favicon.ico HTTP/1.1
+2024-12-29 20:34:48,503 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-29 20:34:48,503 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: keep-alive
+2024-12-29 20:34:48,503 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-29 20:34:48,504 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-29 20:34:48,504 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-29 20:34:48,504 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-29 20:34:48,504 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-29 20:34:48,504 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Site: same-origin
+2024-12-29 20:34:48,504 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Mode: no-cors
+2024-12-29 20:34:48,505 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Dest: image
+2024-12-29 20:34:48,505 INFO c.a.ConnectionHandler [pool-2-thread-2] Referer: http://localhost:8051/5000
+2024-12-29 20:34:48,505 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-29 20:34:48,505 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-29 20:34:48,505 INFO c.a.ConnectionHandler [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-29 20:34:48,506 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size format is invalid.
+2024-12-29 20:34:48,507 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 53205: HTTP/1.1 400 Bad Request
+2024-12-29 20:34:48,508 ERROR c.a.ConnectionHandler [pool-2-thread-2] Failed to handle the request on port 53205
+2024-12-29 20:34:55,456 INFO c.a.ConnectionHandler [pool-2-thread-2] 1 connection(s) active
+
+2024-12-29 20:34:55,456 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /5001 HTTP/1.1
+2024-12-29 20:34:55,456 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-29 20:34:55,456 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: keep-alive
+2024-12-29 20:34:55,456 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-29 20:34:55,457 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-29 20:34:55,457 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-29 20:34:55,457 INFO c.a.ConnectionHandler [pool-2-thread-2] Upgrade-Insecure-Requests: 1
+2024-12-29 20:34:55,457 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-29 20:34:55,457 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-29 20:34:55,457 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Site: none
+2024-12-29 20:34:55,458 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Mode: navigate
+2024-12-29 20:34:55,458 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-User: ?1
+2024-12-29 20:34:55,458 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Dest: document
+2024-12-29 20:34:55,458 INFO c.a.ConnectionHandler [pool-2-thread-1] 2 connection(s) active
+
+2024-12-29 20:34:55,458 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-29 20:34:55,458 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-29 20:34:55,459 INFO c.a.ConnectionHandler [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-29 20:34:55,461 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 53207: HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 5001
+Connection: close
+
+<HTML>
+<HEAD>
+<TITLE>vatansever gltkn eren server</TITLE>
+</HEAD>
+<BODY>87 bytes tags<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytesXXXXX</BODY>
+</HTML>
+2024-12-29 20:34:55,463 ERROR c.a.ConnectionHandler [pool-2-thread-2] Failed to handle the request on port 53207
+2024-12-29 20:34:55,822 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /favicon.ico HTTP/1.1
+2024-12-29 20:34:55,822 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-29 20:34:55,822 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: keep-alive
+2024-12-29 20:34:55,823 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-29 20:34:55,823 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-29 20:34:55,823 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-29 20:34:55,823 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-29 20:34:55,823 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-29 20:34:55,824 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Site: same-origin
+2024-12-29 20:34:55,824 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Mode: no-cors
+2024-12-29 20:34:55,824 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Dest: image
+2024-12-29 20:34:55,824 INFO c.a.ConnectionHandler [pool-2-thread-1] Referer: http://localhost:8051/5001
+2024-12-29 20:34:55,826 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-29 20:34:55,826 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-29 20:34:55,826 INFO c.a.ConnectionHandler [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-29 20:34:55,827 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size format is invalid.
+2024-12-29 20:34:55,827 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 53208: HTTP/1.1 400 Bad Request
+2024-12-29 20:34:55,828 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to handle the request on port 53208
+2024-12-29 20:34:59,603 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-29 20:34:59,603 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /5000 HTTP/1.1
+2024-12-29 20:34:59,603 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-29 20:34:59,604 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: keep-alive
+2024-12-29 20:34:59,604 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-29 20:34:59,604 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-29 20:34:59,604 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-29 20:34:59,604 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade-Insecure-Requests: 1
+2024-12-29 20:34:59,604 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-29 20:34:59,605 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-29 20:34:59,605 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Site: none
+2024-12-29 20:34:59,605 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Mode: navigate
+2024-12-29 20:34:59,605 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-User: ?1
+2024-12-29 20:34:59,605 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Dest: document
+2024-12-29 20:34:59,605 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-29 20:34:59,606 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-29 20:34:59,606 INFO c.a.ConnectionHandler [pool-2-thread-2] 2 connection(s) active
+
+2024-12-29 20:34:59,606 INFO c.a.ConnectionHandler [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-29 20:34:59,607 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent cached response to 53209: HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 5000
+Connection: close
+
+<HTML>
+<HEAD>
+<TITLE>vatansever gltkn eren server</TITLE>
+</HEAD>
+<BODY>87 bytes tags<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytes<br>12 bytesXXXX</BODY>
+</HTML>
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /favicon.ico HTTP/1.1
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: keep-alive
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Site: same-origin
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Mode: no-cors
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Dest: image
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Referer: http://localhost:8051/5000
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-29 20:34:59,893 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent cached response to 53210: HTTP/1.1 400 Bad Request

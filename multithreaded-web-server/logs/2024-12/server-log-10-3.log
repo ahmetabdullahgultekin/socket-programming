@@ -1,0 +1,77 @@
+2024-12-10 13:28:11,883 INFO c.a.WebServer [main]  :: HTTP Server :: Gültekin, Eren & Vatansever :: v1.0 ::
+2024-12-10 13:28:11,893 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 22280
+2024-12-10 13:28:11,893 INFO c.a.WebServer [main] Application is powered by the genius of Gültekin, Eren and Vatansever
+2024-12-10 13:28:11,894 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-10 13:28:11,895 INFO c.a.WebServer [main] Server started on port 8051
+2024-12-10 13:28:16,309 INFO c.a.WebServer [pool-2-thread-2] 2 connection(s) active
+
+2024-12-10 13:28:16,308 INFO c.a.WebServer [pool-2-thread-1] 2 connection(s) active
+
+2024-12-10 13:28:16,311 INFO c.a.WebServer [pool-2-thread-1] GET /50000 HTTP/1.1
+2024-12-10 13:28:16,311 INFO c.a.WebServer [pool-2-thread-1] Host: localhost:8051
+2024-12-10 13:28:16,312 INFO c.a.WebServer [pool-2-thread-1] Connection: keep-alive
+2024-12-10 13:28:16,312 INFO c.a.WebServer [pool-2-thread-1] Cache-Control: max-age=0
+2024-12-10 13:28:16,313 INFO c.a.WebServer [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-10 13:28:16,313 INFO c.a.WebServer [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-10 13:28:16,314 INFO c.a.WebServer [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-10 13:28:16,314 INFO c.a.WebServer [pool-2-thread-1] Upgrade-Insecure-Requests: 1
+2024-12-10 13:28:16,315 INFO c.a.WebServer [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-10 13:28:16,316 INFO c.a.WebServer [pool-2-thread-1] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-10 13:28:16,316 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-Site: none
+2024-12-10 13:28:16,316 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-Mode: navigate
+2024-12-10 13:28:16,317 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-User: ?1
+2024-12-10 13:28:16,317 INFO c.a.WebServer [pool-2-thread-1] Sec-Fetch-Dest: document
+2024-12-10 13:28:16,318 INFO c.a.WebServer [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-10 13:28:16,318 INFO c.a.WebServer [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-10 13:28:16,318 INFO c.a.WebServer [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-10 13:28:16,319 ERROR c.a.WebServer [pool-2-thread-1] Requested file size is too large. Bad Request.
+2024-12-10 13:28:16,319 ERROR c.a.WebServer [pool-2-thread-1] Requested file size: 50000
+2024-12-10 13:28:16,321 ERROR c.a.WebServer [pool-2-thread-1] Failed to send the response on port 60144
+2024-12-10 13:28:16,321 ERROR c.a.WebServer [pool-2-thread-1] Value out of range. Value:"50000" Radix:10
+2024-12-10 13:28:16,324 INFO c.a.WebServer [pool-2-thread-1] Connection closed
+2024-12-10 13:28:16,324 INFO c.a.WebServer [pool-2-thread-2] GET /50000 HTTP/1.1
+2024-12-10 13:28:16,325 INFO c.a.WebServer [pool-2-thread-2] Host: localhost:8051
+2024-12-10 13:28:16,325 INFO c.a.WebServer [pool-2-thread-2] Connection: keep-alive
+2024-12-10 13:28:16,325 INFO c.a.WebServer [pool-2-thread-2] Cache-Control: max-age=0
+2024-12-10 13:28:16,326 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-10 13:28:16,326 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-10 13:28:16,326 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-10 13:28:16,327 INFO c.a.WebServer [pool-2-thread-2] Upgrade-Insecure-Requests: 1
+2024-12-10 13:28:16,327 INFO c.a.WebServer [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-10 13:28:16,328 INFO c.a.WebServer [pool-2-thread-2] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-10 13:28:16,328 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Site: none
+2024-12-10 13:28:16,328 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Mode: navigate
+2024-12-10 13:28:16,329 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-User: ?1
+2024-12-10 13:28:16,329 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Dest: document
+2024-12-10 13:28:16,330 INFO c.a.WebServer [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-10 13:28:16,330 INFO c.a.WebServer [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-10 13:28:16,330 INFO c.a.WebServer [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-10 13:28:16,331 ERROR c.a.WebServer [pool-2-thread-2] Requested file size is too large. Bad Request.
+2024-12-10 13:28:16,331 ERROR c.a.WebServer [pool-2-thread-2] Requested file size: 50000
+2024-12-10 13:28:16,332 ERROR c.a.WebServer [pool-2-thread-2] Failed to send the response on port 60145
+2024-12-10 13:28:16,332 ERROR c.a.WebServer [pool-2-thread-2] Value out of range. Value:"50000" Radix:10
+2024-12-10 13:28:16,333 INFO c.a.WebServer [pool-2-thread-2] Connection closed
+2024-12-10 13:28:16,334 INFO c.a.WebServer [pool-2-thread-2] 1 connection(s) active
+
+2024-12-10 13:28:16,335 INFO c.a.WebServer [pool-2-thread-2] GET /50000 HTTP/1.1
+2024-12-10 13:28:16,335 INFO c.a.WebServer [pool-2-thread-2] Host: localhost:8051
+2024-12-10 13:28:16,335 INFO c.a.WebServer [pool-2-thread-2] Connection: keep-alive
+2024-12-10 13:28:16,336 INFO c.a.WebServer [pool-2-thread-2] Cache-Control: max-age=0
+2024-12-10 13:28:16,336 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-10 13:28:16,336 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-10 13:28:16,337 INFO c.a.WebServer [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-10 13:28:16,337 INFO c.a.WebServer [pool-2-thread-2] Upgrade-Insecure-Requests: 1
+2024-12-10 13:28:16,337 INFO c.a.WebServer [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-10 13:28:16,338 INFO c.a.WebServer [pool-2-thread-2] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-10 13:28:16,338 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Site: none
+2024-12-10 13:28:16,338 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Mode: navigate
+2024-12-10 13:28:16,338 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-User: ?1
+2024-12-10 13:28:16,339 INFO c.a.WebServer [pool-2-thread-2] Sec-Fetch-Dest: document
+2024-12-10 13:28:16,339 INFO c.a.WebServer [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-10 13:28:16,339 INFO c.a.WebServer [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-10 13:28:16,339 INFO c.a.WebServer [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-10 13:28:16,340 ERROR c.a.WebServer [pool-2-thread-2] Requested file size is too large. Bad Request.
+2024-12-10 13:28:16,340 ERROR c.a.WebServer [pool-2-thread-2] Requested file size: 50000
+2024-12-10 13:28:16,341 ERROR c.a.WebServer [pool-2-thread-2] Failed to send the response on port 60147
+2024-12-10 13:28:16,341 ERROR c.a.WebServer [pool-2-thread-2] Value out of range. Value:"50000" Radix:10
+2024-12-10 13:28:16,342 INFO c.a.WebServer [pool-2-thread-2] Connection closed

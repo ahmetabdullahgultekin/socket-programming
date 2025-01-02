@@ -1,0 +1,108 @@
+2024-12-23 23:19:28,422 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-23 23:19:28,432 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-23 23:19:28,432 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-23 23:19:28,434 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-23 23:20:16,551 INFO c.a.ConnectionHandler [pool-2-thread-1] Request: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:20:19,821 INFO c.a.ConnectionHandler [pool-2-thread-2] Request: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:20:24,168 INFO c.a.ConnectionHandler [pool-2-thread-3] Request: CONNECT threat.api.mcafee.com:443 HTTP/1.1
+Host: threat.api.mcafee.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:20:34,892 INFO c.a.ConnectionHandler [pool-2-thread-4] Request: CONNECT webapp.chatgpt4google.com:443 HTTP/1.1
+Host: webapp.chatgpt4google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:20:34,908 ERROR c.a.ConnectionHandler [pool-2-thread-4] IO Error occurred while reading response: Unrecognized SSL message, plaintext connection?
+2024-12-23 23:21:34,838 INFO c.a.ConnectionHandler [pool-2-thread-5] Request: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:21:54,268 INFO c.a.ConnectionHandler [pool-2-thread-6] Request: CONNECT android.clients.google.com:443 HTTP/1.1
+Host: android.clients.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:22:04,842 INFO c.a.ConnectionHandler [pool-2-thread-7] Request: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:22:32,597 ERROR c.a.ConnectionHandler [pool-2-thread-8] Error occurred while reading request: Connection reset
+2024-12-23 23:22:32,597 ERROR c.a.ConnectionHandler [pool-2-thread-9] Error occurred while reading request: Connection reset
+2024-12-23 23:24:11,938 INFO c.a.ConnectionHandler [pool-2-thread-10] Request: CONNECT mtalk.google.com:5228 HTTP/1.1
+Host: mtalk.google.com:5228
+Proxy-Connection: keep-alive
+
+
+2024-12-23 23:24:58,733 INFO c.a.ConnectionHandler [pool-2-thread-14] Request: GET http://localhost:8051/505 HTTP/1.1
+Host: localhost:8051
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+
+
+2024-12-23 23:25:04,265 INFO c.a.ConnectionHandler [pool-2-thread-11] Request: CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1
+Host: beacons.gcp.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:25:06,507 INFO c.a.ConnectionHandler [pool-2-thread-12] Request: CONNECT mtalk.google.com:443 HTTP/1.1
+Host: mtalk.google.com:443
+Proxy-Connection: keep-alive
+
+
+2024-12-23 23:25:08,580 INFO c.a.ConnectionHandler [pool-2-thread-13] Request: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:25:10,414 INFO c.a.ConnectionHandler [pool-2-thread-16] Request: CONNECT phishing-detection.api.cx.metamask.io:443 HTTP/1.1
+Host: phishing-detection.api.cx.metamask.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:25:34,279 INFO c.a.ConnectionHandler [pool-2-thread-18] Request: CONNECT beacons.gvt2.com:443 HTTP/1.1
+Host: beacons.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:25:37,068 INFO c.a.ConnectionHandler [pool-2-thread-19] Request: CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+

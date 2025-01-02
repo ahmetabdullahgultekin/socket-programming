@@ -1,0 +1,20 @@
+2024-12-24 01:31:53,972 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-24 01:31:53,980 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-24 01:31:53,981 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-24 01:31:53,982 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-24 01:31:55,072 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:31:55,074 WARN c.a.ConnectionHandler [pool-2-thread-1] Reading request...
+2024-12-24 01:31:55,076 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: CONNECT sepolia.infura.io:443 HTTP/1.1
+2024-12-24 01:31:55,077 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: Host: sepolia.infura.io:443
+2024-12-24 01:31:55,077 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: Proxy-Connection: keep-alive
+2024-12-24 01:31:55,077 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:31:55,078 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: 
+2024-12-24 01:31:55,078 ERROR c.a.ConnectionHandler [pool-2-thread-1] Request is null
+2024-12-24 01:31:57,091 INFO c.a.ConnectionHandler [main] Client connected: /127.0.0.1
+2024-12-24 01:31:57,092 WARN c.a.ConnectionHandler [pool-2-thread-1] Reading request...
+2024-12-24 01:31:57,092 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: CONNECT sepolia.infura.io:443 HTTP/1.1
+2024-12-24 01:31:57,093 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: Host: sepolia.infura.io:443
+2024-12-24 01:31:57,093 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: Proxy-Connection: keep-alive
+2024-12-24 01:31:57,093 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-24 01:31:57,094 INFO c.a.ConnectionHandler [pool-2-thread-1] Line: 
+2024-12-24 01:31:57,094 ERROR c.a.ConnectionHandler [pool-2-thread-1] Request is null

@@ -1,0 +1,9 @@
+2024-12-10 13:57:59,503 INFO c.a.WebServer [main]  :: HTTP Server :: Gültekin, Eren & Vatansever :: v1.0 ::
+2024-12-10 13:57:59,512 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 11292
+2024-12-10 13:57:59,512 INFO c.a.WebServer [main] Application is powered by the genius of Gültekin, Eren and Vatansever
+2024-12-10 13:57:59,513 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-10 13:57:59,532 ERROR c.a.WebServer [main] Failed to start the server on port 8051
+2024-12-10 13:57:59,533 ERROR c.a.WebServer [main] Address already in use: bind
+2024-12-10 13:57:59,533 INFO c.a.WebServer [main] Stopping HTTPServer on localhost with PID 11292
+2024-12-10 13:57:59,534 INFO c.a.WebServer [main] Server stopping on port 8051
+2024-12-10 13:57:59,534 INFO c.a.WebServer [main] Server stopped on port 8051

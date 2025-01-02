@@ -1,0 +1,9 @@
+2024-12-07 13:35:43,974 INFO c.a.WebServer [main]  :: HTTP Server :: Gültekin, Eren & Vatansever :: v1.0 ::
+2024-12-07 13:35:43,986 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 18052
+2024-12-07 13:35:43,986 INFO c.a.WebServer [main] Application is powered by the genius of Gültekin, Eren and Vatansever
+2024-12-07 13:35:43,987 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-07 13:35:43,989 INFO c.a.WebServer [main] Server started on port 8051
+2024-12-07 13:35:43,990 INFO c.a.WebServer [main] Stopping HTTPServer on localhost with PID 18052
+2024-12-07 13:35:43,991 INFO c.a.WebServer [main] Server stopping on port 8051
+2024-12-07 13:35:43,994 INFO c.a.WebServer [main] Server stopped on port 8051
+2024-12-07 13:35:43,994 ERROR c.a.WebServer [Thread-0] Failed to accept connection on port 8051

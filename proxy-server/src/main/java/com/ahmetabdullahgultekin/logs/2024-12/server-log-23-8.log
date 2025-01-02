@@ -1,0 +1,38 @@
+2024-12-23 23:58:15,476 INFO c.a.ProxyServer [main] Creating proxy server...
+2024-12-23 23:58:15,483 INFO c.a.ProxyServer [main] Proxy server is created on port 8888
+2024-12-23 23:58:15,483 INFO c.a.ProxyServer [main] Proxy server is starting...
+2024-12-23 23:58:15,484 INFO c.a.ProxyServer [main] Proxy server is started on port 8888
+2024-12-23 23:58:53,872 INFO c.a.ConnectionHandler [pool-2-thread-1] Request taken: CONNECT chatgpt.com:443 HTTP/1.1
+Host: chatgpt.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:58:53,892 INFO c.a.ConnectionHandler [pool-2-thread-1] Request to forward: https://localhost:8051 GET
+2024-12-23 23:58:55,252 INFO c.a.ConnectionHandler [pool-2-thread-5] Request taken: CONNECT phishing-detection.api.cx.metamask.io:443 HTTP/1.1
+Host: phishing-detection.api.cx.metamask.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:58:55,253 INFO c.a.ConnectionHandler [pool-2-thread-5] Request to forward: https://localhost:8051 GET
+2024-12-23 23:58:56,819 ERROR c.a.ConnectionHandler [pool-2-thread-2] Error occurred while reading request: Connection reset
+2024-12-23 23:58:56,820 INFO c.a.ConnectionHandler [pool-2-thread-2] Request to forward: https://localhost:8051 GET
+2024-12-23 23:59:25,275 INFO c.a.ConnectionHandler [pool-2-thread-6] Request taken: CONNECT client-side-detection.api.cx.metamask.io:443 HTTP/1.1
+Host: client-side-detection.api.cx.metamask.io:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:59:25,277 INFO c.a.ConnectionHandler [pool-2-thread-6] Request to forward: https://localhost:8051 GET
+2024-12-23 23:59:26,246 INFO c.a.ConnectionHandler [pool-2-thread-4] Request taken: 
+2024-12-23 23:59:26,248 INFO c.a.ConnectionHandler [pool-2-thread-4] Request to forward: https://localhost:8051 GET
+2024-12-23 23:59:42,776 ERROR c.a.ConnectionHandler [pool-2-thread-7] Error occurred while reading request: Connection reset
+2024-12-23 23:59:42,778 INFO c.a.ConnectionHandler [pool-2-thread-7] Request to forward: https://localhost:8051 GET
+2024-12-23 23:59:56,261 INFO c.a.ConnectionHandler [pool-2-thread-8] Request taken: CONNECT beacons2.gvt2.com:443 HTTP/1.1
+Host: beacons2.gvt2.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+
+2024-12-23 23:59:56,262 INFO c.a.ConnectionHandler [pool-2-thread-8] Request to forward: https://localhost:8051 GET

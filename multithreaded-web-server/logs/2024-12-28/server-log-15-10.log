@@ -1,0 +1,5 @@
+2024-12-28 15:46:15,627 INFO c.a.WebServer [main]  :: HTTP Server :: Gültekin, Eren & Vatansever :: v1.0 ::
+2024-12-28 15:46:15,636 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 41108
+2024-12-28 15:46:15,637 INFO c.a.WebServer [main] Application is powered by the genius of Gültekin, Eren and Vatansever
+2024-12-28 15:46:15,638 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-28 15:46:15,638 INFO c.a.WebServer [main] Server started on port 8051

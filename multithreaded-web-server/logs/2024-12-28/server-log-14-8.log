@@ -1,0 +1,211 @@
+2024-12-28 14:38:07,332 INFO c.a.WebServer [main]  :: HTTP Server :: Gültekin, Eren & Vatansever :: v1.0 ::
+2024-12-28 14:38:07,339 INFO c.a.WebServer [main] Starting HTTPServer on localhost with PID 59764
+2024-12-28 14:38:07,340 INFO c.a.WebServer [main] Application is powered by the genius of Gültekin, Eren and Vatansever
+2024-12-28 14:38:07,341 INFO c.a.WebServer [main] Server created on port 8051
+2024-12-28 14:38:07,342 INFO c.a.WebServer [main] Server started on port 8051
+2024-12-28 14:38:09,824 INFO c.a.ConnectionHandler [pool-2-thread-1] 2 connection(s) active
+
+2024-12-28 14:38:09,824 INFO c.a.ConnectionHandler [pool-2-thread-2] 2 connection(s) active
+
+2024-12-28 14:38:09,825 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /200 HTTP/1.1
+2024-12-28 14:38:09,826 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 14:38:09,826 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: keep-alive
+2024-12-28 14:38:09,826 INFO c.a.ConnectionHandler [pool-2-thread-1] Cache-Control: max-age=0
+2024-12-28 14:38:09,826 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-28 14:38:09,826 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-28 14:38:09,828 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-28 14:38:09,828 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade-Insecure-Requests: 1
+2024-12-28 14:38:09,828 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 14:38:09,828 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-28 14:38:09,828 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Site: none
+2024-12-28 14:38:09,829 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Mode: navigate
+2024-12-28 14:38:09,829 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-User: ?1
+2024-12-28 14:38:09,829 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Dest: document
+2024-12-28 14:38:09,829 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-28 14:38:09,829 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-28 14:38:09,829 INFO c.a.ConnectionHandler [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-28 14:38:09,833 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58776: HTTP/1.1 200 OK with Content-Length: 200
+2024-12-28 14:38:09,833 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection closed on port 58776
+2024-12-28 14:38:10,873 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /favicon.ico HTTP/1.1
+2024-12-28 14:38:10,874 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-28 14:38:10,874 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: keep-alive
+2024-12-28 14:38:10,874 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-28 14:38:10,874 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 14:38:10,875 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-28 14:38:10,875 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-28 14:38:10,875 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-28 14:38:10,876 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Site: same-origin
+2024-12-28 14:38:10,876 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Mode: no-cors
+2024-12-28 14:38:10,876 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Dest: image
+2024-12-28 14:38:10,878 INFO c.a.ConnectionHandler [pool-2-thread-2] Referer: http://localhost:8051/200
+2024-12-28 14:38:10,878 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-28 14:38:10,878 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-28 14:38:10,878 INFO c.a.ConnectionHandler [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-28 14:38:10,879 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size format is invalid.
+2024-12-28 14:38:10,879 ERROR c.a.ConnectionHandler [pool-2-thread-2] Failed to parse the response size -1
+2024-12-28 14:38:10,879 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 58777: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 14:38:10,880 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection closed on port 58777
+2024-12-28 14:39:02,520 INFO c.a.ConnectionHandler [pool-2-thread-2] 1 connection(s) active
+
+2024-12-28 14:39:02,520 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /276 HTTP/1.1
+2024-12-28 14:39:02,520 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-28 14:39:02,521 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: keep-alive
+2024-12-28 14:39:02,521 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-28 14:39:02,521 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-28 14:39:02,521 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-28 14:39:02,521 INFO c.a.ConnectionHandler [pool-2-thread-2] Upgrade-Insecure-Requests: 1
+2024-12-28 14:39:02,522 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 14:39:02,522 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-28 14:39:02,522 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Site: none
+2024-12-28 14:39:02,522 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Mode: navigate
+2024-12-28 14:39:02,523 INFO c.a.ConnectionHandler [pool-2-thread-1] 2 connection(s) active
+
+2024-12-28 14:39:02,523 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-User: ?1
+2024-12-28 14:39:02,524 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Dest: document
+2024-12-28 14:39:02,524 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-28 14:39:02,524 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-28 14:39:02,524 INFO c.a.ConnectionHandler [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-28 14:39:02,525 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 58804: HTTP/1.1 200 OK with Content-Length: 276
+2024-12-28 14:39:02,525 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection closed on port 58804
+2024-12-28 14:39:03,547 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /favicon.ico HTTP/1.1
+2024-12-28 14:39:03,548 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 14:39:03,549 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: keep-alive
+2024-12-28 14:39:03,549 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-28 14:39:03,549 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 14:39:03,550 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-28 14:39:03,550 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-28 14:39:03,551 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-28 14:39:03,551 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Site: same-origin
+2024-12-28 14:39:03,551 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Mode: no-cors
+2024-12-28 14:39:03,552 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Dest: image
+2024-12-28 14:39:03,552 INFO c.a.ConnectionHandler [pool-2-thread-1] Referer: http://localhost:8051/276
+2024-12-28 14:39:03,552 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-28 14:39:03,552 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-28 14:39:03,553 INFO c.a.ConnectionHandler [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-28 14:39:03,553 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size format is invalid.
+2024-12-28 14:39:03,553 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 14:39:03,554 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58805: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 14:39:03,555 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection closed on port 58805
+2024-12-28 14:39:08,001 INFO c.a.ConnectionHandler [pool-2-thread-1] 1 connection(s) active
+
+2024-12-28 14:39:08,001 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /279 HTTP/1.1
+2024-12-28 14:39:08,001 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 14:39:08,001 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: keep-alive
+2024-12-28 14:39:08,001 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-28 14:39:08,002 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-28 14:39:08,002 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-28 14:39:08,002 INFO c.a.ConnectionHandler [pool-2-thread-1] Upgrade-Insecure-Requests: 1
+2024-12-28 14:39:08,002 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 14:39:08,002 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-28 14:39:08,002 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Site: none
+2024-12-28 14:39:08,003 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Mode: navigate
+2024-12-28 14:39:08,003 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-User: ?1
+2024-12-28 14:39:08,003 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Dest: document
+2024-12-28 14:39:08,003 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-28 14:39:08,003 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-28 14:39:08,003 INFO c.a.ConnectionHandler [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-28 14:39:08,004 INFO c.a.ConnectionHandler [pool-2-thread-2] 2 connection(s) active
+
+2024-12-28 14:39:08,005 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58810: HTTP/1.1 200 OK with Content-Length: 279
+2024-12-28 14:39:08,006 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection closed on port 58810
+2024-12-28 14:39:09,111 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /favicon.ico HTTP/1.1
+2024-12-28 14:39:09,111 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-28 14:39:09,111 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: keep-alive
+2024-12-28 14:39:09,112 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-28 14:39:09,112 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 14:39:09,112 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-28 14:39:09,112 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-28 14:39:09,112 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-28 14:39:09,112 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Site: same-origin
+2024-12-28 14:39:09,112 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Mode: no-cors
+2024-12-28 14:39:09,112 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Dest: image
+2024-12-28 14:39:09,113 INFO c.a.ConnectionHandler [pool-2-thread-2] Referer: http://localhost:8051/279
+2024-12-28 14:39:09,113 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-28 14:39:09,113 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-28 14:39:09,113 INFO c.a.ConnectionHandler [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-28 14:39:09,113 ERROR c.a.ErrorHandler [pool-2-thread-2] Requested file size format is invalid.
+2024-12-28 14:39:09,114 ERROR c.a.ConnectionHandler [pool-2-thread-2] Failed to parse the response size -1
+2024-12-28 14:39:09,114 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 58811: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 14:39:09,114 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection closed on port 58811
+2024-12-28 14:39:33,939 INFO c.a.ConnectionHandler [pool-2-thread-2] 1 connection(s) active
+
+2024-12-28 14:39:33,940 INFO c.a.ConnectionHandler [pool-2-thread-2] GET /240 HTTP/1.1
+2024-12-28 14:39:33,940 INFO c.a.ConnectionHandler [pool-2-thread-2] Host: localhost:8051
+2024-12-28 14:39:33,940 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection: keep-alive
+2024-12-28 14:39:33,940 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-28 14:39:33,940 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-mobile: ?0
+2024-12-28 14:39:33,940 INFO c.a.ConnectionHandler [pool-2-thread-2] sec-ch-ua-platform: "Windows"
+2024-12-28 14:39:33,940 INFO c.a.ConnectionHandler [pool-2-thread-2] Upgrade-Insecure-Requests: 1
+2024-12-28 14:39:33,941 INFO c.a.ConnectionHandler [pool-2-thread-2] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 14:39:33,941 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-28 14:39:33,941 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Site: none
+2024-12-28 14:39:33,941 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Mode: navigate
+2024-12-28 14:39:33,941 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-User: ?1
+2024-12-28 14:39:33,941 INFO c.a.ConnectionHandler [pool-2-thread-2] Sec-Fetch-Dest: document
+2024-12-28 14:39:33,941 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-28 14:39:33,942 INFO c.a.ConnectionHandler [pool-2-thread-2] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-28 14:39:33,942 INFO c.a.ConnectionHandler [pool-2-thread-2] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-28 14:39:33,943 INFO c.a.ConnectionHandler [pool-2-thread-1] 2 connection(s) active
+
+2024-12-28 14:39:33,943 INFO c.a.ConnectionHandler [pool-2-thread-2] Sent response to 58829: HTTP/1.1 200 OK with Content-Length: 240
+2024-12-28 14:39:33,943 INFO c.a.ConnectionHandler [pool-2-thread-2] Connection closed on port 58829
+2024-12-28 14:39:35,011 INFO c.a.ConnectionHandler [pool-2-thread-1] GET /favicon.ico HTTP/1.1
+2024-12-28 14:39:35,011 INFO c.a.ConnectionHandler [pool-2-thread-1] Host: localhost:8051
+2024-12-28 14:39:35,011 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection: keep-alive
+2024-12-28 14:39:35,011 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-platform: "Windows"
+2024-12-28 14:39:35,012 INFO c.a.ConnectionHandler [pool-2-thread-1] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 14:39:35,012 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-28 14:39:35,012 INFO c.a.ConnectionHandler [pool-2-thread-1] sec-ch-ua-mobile: ?0
+2024-12-28 14:39:35,012 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-28 14:39:35,012 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Site: same-origin
+2024-12-28 14:39:35,012 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Mode: no-cors
+2024-12-28 14:39:35,012 INFO c.a.ConnectionHandler [pool-2-thread-1] Sec-Fetch-Dest: image
+2024-12-28 14:39:35,013 INFO c.a.ConnectionHandler [pool-2-thread-1] Referer: http://localhost:8051/240
+2024-12-28 14:39:35,013 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-28 14:39:35,013 INFO c.a.ConnectionHandler [pool-2-thread-1] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-28 14:39:35,013 INFO c.a.ConnectionHandler [pool-2-thread-1] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-28 14:39:35,014 ERROR c.a.ErrorHandler [pool-2-thread-1] Requested file size format is invalid.
+2024-12-28 14:39:35,014 ERROR c.a.ConnectionHandler [pool-2-thread-1] Failed to parse the response size -1
+2024-12-28 14:39:35,014 INFO c.a.ConnectionHandler [pool-2-thread-1] Sent response to 58830: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 14:39:35,014 INFO c.a.ConnectionHandler [pool-2-thread-1] Connection closed on port 58830
+2024-12-28 14:41:58,749 INFO c.a.ConnectionHandler [pool-2-thread-3] 1 connection(s) active
+
+2024-12-28 14:41:58,749 INFO c.a.ConnectionHandler [pool-2-thread-3] GET /100 HTTP/1.1
+2024-12-28 14:41:58,749 INFO c.a.ConnectionHandler [pool-2-thread-3] Host: localhost:8051
+2024-12-28 14:41:58,749 INFO c.a.ConnectionHandler [pool-2-thread-3] Connection: keep-alive
+2024-12-28 14:41:58,749 INFO c.a.ConnectionHandler [pool-2-thread-3] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-28 14:41:58,749 INFO c.a.ConnectionHandler [pool-2-thread-3] sec-ch-ua-mobile: ?0
+2024-12-28 14:41:58,751 INFO c.a.ConnectionHandler [pool-2-thread-3] sec-ch-ua-platform: "Windows"
+2024-12-28 14:41:58,751 INFO c.a.ConnectionHandler [pool-2-thread-3] Upgrade-Insecure-Requests: 1
+2024-12-28 14:41:58,751 INFO c.a.ConnectionHandler [pool-2-thread-3] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 14:41:58,751 INFO c.a.ConnectionHandler [pool-2-thread-3] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-12-28 14:41:58,751 INFO c.a.ConnectionHandler [pool-2-thread-3] Sec-Fetch-Site: none
+2024-12-28 14:41:58,751 INFO c.a.ConnectionHandler [pool-2-thread-3] Sec-Fetch-Mode: navigate
+2024-12-28 14:41:58,751 INFO c.a.ConnectionHandler [pool-2-thread-3] Sec-Fetch-User: ?1
+2024-12-28 14:41:58,752 INFO c.a.ConnectionHandler [pool-2-thread-3] Sec-Fetch-Dest: document
+2024-12-28 14:41:58,752 INFO c.a.ConnectionHandler [pool-2-thread-3] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-28 14:41:58,752 INFO c.a.ConnectionHandler [pool-2-thread-3] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-28 14:41:58,752 INFO c.a.ConnectionHandler [pool-2-thread-3] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-28 14:41:58,752 INFO c.a.ConnectionHandler [pool-2-thread-4] 2 connection(s) active
+
+2024-12-28 14:41:58,753 INFO c.a.ConnectionHandler [pool-2-thread-3] Sent response to 58923: HTTP/1.1 200 OK with Content-Length: 100
+2024-12-28 14:41:58,754 INFO c.a.ConnectionHandler [pool-2-thread-3] Connection closed on port 58923
+2024-12-28 14:41:59,736 INFO c.a.ConnectionHandler [pool-2-thread-4] GET /favicon.ico HTTP/1.1
+2024-12-28 14:41:59,738 INFO c.a.ConnectionHandler [pool-2-thread-4] Host: localhost:8051
+2024-12-28 14:41:59,738 INFO c.a.ConnectionHandler [pool-2-thread-4] Connection: keep-alive
+2024-12-28 14:41:59,738 INFO c.a.ConnectionHandler [pool-2-thread-4] sec-ch-ua-platform: "Windows"
+2024-12-28 14:41:59,738 INFO c.a.ConnectionHandler [pool-2-thread-4] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 14:41:59,739 INFO c.a.ConnectionHandler [pool-2-thread-4] sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+2024-12-28 14:41:59,739 INFO c.a.ConnectionHandler [pool-2-thread-4] sec-ch-ua-mobile: ?0
+2024-12-28 14:41:59,739 INFO c.a.ConnectionHandler [pool-2-thread-4] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-12-28 14:41:59,739 INFO c.a.ConnectionHandler [pool-2-thread-4] Sec-Fetch-Site: same-origin
+2024-12-28 14:41:59,739 INFO c.a.ConnectionHandler [pool-2-thread-4] Sec-Fetch-Mode: no-cors
+2024-12-28 14:41:59,739 INFO c.a.ConnectionHandler [pool-2-thread-4] Sec-Fetch-Dest: image
+2024-12-28 14:41:59,740 INFO c.a.ConnectionHandler [pool-2-thread-4] Referer: http://localhost:8051/100
+2024-12-28 14:41:59,740 INFO c.a.ConnectionHandler [pool-2-thread-4] Accept-Encoding: gzip, deflate, br, zstd
+2024-12-28 14:41:59,740 INFO c.a.ConnectionHandler [pool-2-thread-4] Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,tr;q=0.7
+2024-12-28 14:41:59,740 INFO c.a.ConnectionHandler [pool-2-thread-4] Cookie: Idea-aafc98fb=658b0d5c-2bf3-4a86-9c32-a7b8839e4505; _ga=GA1.1.1641718334.1720546053; Webstorm-5dc34942=29b731fc-1c15-4de7-b819-1af49ebd48dc; Webstorm-5dc34943=a980352b-1e53-4f3a-8ec2-639d92bd913b; _ga_PQEYN9C3X3=GS1.1.1727763152.23.1.1727770904.0.0.0; userToken=4gwm3ynf98ttkn231id7e8; Webstorm-5dc34944=0e506670-c0d9-47ef-8e10-338374c3ae0e
+2024-12-28 14:41:59,740 ERROR c.a.ErrorHandler [pool-2-thread-4] Requested file size format is invalid.
+2024-12-28 14:41:59,741 ERROR c.a.ConnectionHandler [pool-2-thread-4] Failed to parse the response size -1
+2024-12-28 14:41:59,741 INFO c.a.ConnectionHandler [pool-2-thread-4] Sent response to 58924: HTTP/1.1 400 Bad Request with Content-Length: 0
+2024-12-28 14:41:59,741 INFO c.a.ConnectionHandler [pool-2-thread-4] Connection closed on port 58924
